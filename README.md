@@ -129,6 +129,7 @@
 * [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html)📦 
 * [**Keyboard Test**](https://github.com/10yard/keyboardtester/releases)📦 
 * **SIGVERIF**🪟 &nbsp; `sigverif`
+* [**BlueScreenView**](https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks)
 
 ## Pruebas y Reparación
 
