@@ -130,6 +130,7 @@
 * [**Keyboard Test**](https://github.com/10yard/keyboardtester/releases)📦 
 * **SIGVERIF**🪟 &nbsp; `sigverif`
 * [**BlueScreenView**](https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks)
+* [**Lock Hunter**](https://lockhunter.com/download.htm)
 
 ## Pruebas y Reparación
 
@@ -214,8 +215,6 @@
 * [**WPS Office**](https://es.wps.com/download/) &nbsp; *Alternativa a Microsoft Office*
 * [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
 * [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php)[📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable) &nbsp; *Desbloquear archivos*
-
------
 
 # 🔩 Herramientas de Hardware
 
