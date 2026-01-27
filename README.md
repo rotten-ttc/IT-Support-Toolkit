@@ -2,22 +2,23 @@
 
 ***@rotten_ttc***
 
-### Indicadores
-
-* **📦** Este icono indica que el software tiene una **versión portable**. Haz clic en él para acceder a esa versión. Si es portable de forma nativa o tiene una versión oficial, el símbolo aparecerá pero no redirigirá a ningún sitio.
-* **🪟** Este icono indica que el software es una **herramienta nativa de Windows**.
-* **❗** Este icono indica que el software tiene una **advertencia importante** para el usuario.
+### Indicadores de referencia
+|Icono|Significado|
+|:----|:----|
+|📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
+|🪟| Indica que el software es una **herramienta nativa de Windows**.|
+|❗❗| Indica que el texto es una **advertencia importante** para el usuario.|
 
 # 💻 Herramientas de Software
 
 ## ⚙️ Preparación de Sistema
 
-* [**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#differences-between-iot-and-non-iot-windows-enterprise-ltsc)
+* [**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links)
 * [**CTT Utility**](https://christitus.com/windows-tool/) &nbsp; `irm christitus.com/win | iex`
 * [**Massgrave**](https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file) &nbsp; `irm https://get.activated.win | iex`
-* [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html)📦 
+* [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html)📦
 * [**Unattend-generator**](https://github.com/cschneegans/unattend-generator/) &nbsp; ❗*Al bootear desde el pendrive se instala el sistema automáticamente*❗
-* [**AtlasOS**](https://atlasos.net/) &nbsp; ❗*Solo recomendado para uso personal*❗
+* [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/5d2b03883b4fc25b358428a98d375a2a11dc9df8/AtlasDesktop)
 
 ## 🛡️ Seguridad
 
@@ -86,8 +87,8 @@
 * [**Revo Uninstaller Free**](https://www.revouninstaller.com/products/revo-uninstaller-free/)📦 
 * [**G-Helper**](https://github.com/seerge/g-helper/releases)📦 &nbsp; *Laptops ASUS*
 * [**Fan Control**](https://getfancontrol.com/)📦 
-* [**AtlasToolbox**](https://github.com/Atlas-OS/atlas-toolbox)
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
+* [**AtlasOS**](https://atlasos.net/) &nbsp; ❗*Solo recomendado para uso personal*❗
 
 ## Gestión de Drivers
 
@@ -229,11 +230,11 @@
 
 ## Adaptadores
 
-* **VGA >>>> HDMI**
-* **MOLEX >> SATA**
-* **USB >>>> PS/2**
-* **USB >>>> SATA/IDE**
-* **USB >>>> M.2 NVMe**
+* **VGA ==== HDMI**
+* **MOLEX == SATA**
+* **USB ==== PS/2**
+* **USB ==== SATA/IDE**
+* **USB ==== M.2 NVMe**
 
 ## Limpieza
 
@@ -343,7 +344,7 @@
 
 * **Intel Core 8000 / AMD Ryzen 3000G**
 * **8 - 16 GB de RAM**
-* [**Windows 11 LTSC**](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) **+** [**CTT**](https://christitus.com/windows-tool/) **+** [**AtlasOS**](https://atlasos.net/)  &nbsp;  &nbsp; ❗*AtlasOS recomendado solo para uso personal*❗ 
+* [**Windows 11 LTSC**](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) **+** [**CTT**](https://christitus.com/windows-tool/) **+** [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/5d2b03883b4fc25b358428a98d375a2a11dc9df8/AtlasDesktop) &nbsp;  &nbsp;
 * [**Windows 10**](https://www.microsoft.com/en-gb/software-download/windows10) *(x86)*  &nbsp; ❗*Win10 sin soporte oficial*❗ 
 
 ### Medición de Fuentes
