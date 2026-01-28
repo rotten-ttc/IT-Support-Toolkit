@@ -5,7 +5,7 @@
 
 ### Indicadores de referencia
 |Icono|Significado|
-|----|----|
+|-|-|
 |📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
 |🪟| Indica que el software es una **herramienta nativa de Windows**.|
 |`>_`| Indica que el texto a continuacion es un **comando de consola**.|
@@ -29,7 +29,7 @@
 ✏️*Ordenadas de mejor a peor*
 
 |Antivirus|Consumo|
-|:----|:----|
+|-|-|
 |[**Kaspersky**](https://www.kaspersky.com/)|Medio|
 |[**Norton**](https://ar.norton.com/)|Alto |
 |**Windows Defender** &nbsp; 🪟 `>_` `start windowsdefender:`|Alto |
