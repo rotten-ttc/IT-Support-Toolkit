@@ -37,7 +37,7 @@
 |[**Panda Free**](https://www.pandasecurity.com/es/homeusers/free-antivirus/)|Bajo |
 |[**360 Total Security**](https://www.360totalsecurity.com/es/)|Medio|
 
-**Malicious Removal Tool** &nbsp; 🪟 ✏️*Complemento de Windows Defender* `>_` `mrt` 
+* **Malicious Removal Tool** &nbsp; 🪟 ✏️*Complemento de Windows Defender* `>_` `mrt` 
 
 ### Anti Malware *(Bajo demanda)*
 
