@@ -435,15 +435,15 @@
 
 ## 🔤Nomenclaturas
 
-* CPU
+* ## CPU
    * <img width="800" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745209716818/AMD_CPU.png?ex=697988a6&is=69783726&hm=e17634e2e1c2885ce845c6e6a66730b8ca2a7dcfe9cd7193cfc319ed057ff1c6&=&format=webp&quality=lossless" >
    * <img width="800" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745733869620/INTEL_CPU.png?ex=697988a6&is=69783726&hm=bb9cbfdfd0be8ae41dfba51311a358e927cff47493521fa140867dd4c4b3e31b&=&format=webp&quality=lossless" >
 
-* GPU
+* ## GPU
    * <img width="800" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746484785346/NVIDIA_GPU.png?ex=697988a6&is=69783726&hm=a799b7253bfc58a60aa5f7f662912a06e1ffa52615ae9bfbbdb22f218c221161&=&format=webp&quality=lossless" >
    * <img width="800" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746140983449/AMD_GPU.png?ex=697988a6&is=69783726&hm=44f0a52a24be0e2b20cbe9654fe55f71f02cb9e1d3bdc143b2dd6511689c9494&=&format=webp&quality=lossless" >
 
-### Distribución de Teclados
+## Distribución de Teclados
 
 * **Español:** *@ > 2*
 * **América Latina:** *@ > Q*
@@ -455,7 +455,7 @@
 * [**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ✏️*Motherboards*
 * [**Grupo GB**](https://grupogb.com.ar/) &nbsp; ✏️*Celulares*
 
-### 📖Bibliografía
+## 📖Bibliografía
 
 * [**Hardzone**](https://hardzone.es/)
 * [**Softzone**](https://www.softzone.es/)
