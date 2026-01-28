@@ -1,5 +1,6 @@
 
 
+
 ## 🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC 🛠️
 
 -***@Rotten_ttc***  por todos lados- 
@@ -9,6 +10,7 @@
 |-|-|
 |📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
 |🇼| Indica que el software es una **herramienta nativa de Windows**.|
+|🌐| Indica que el software es una **herramienta web**.|
 |`>_`| Indica que el texto a continuacion es un **comando de consola**.|
 |📝| Indica que el texto a continuacion es una **nota**.|
 |‼️| Indica que el texto a continuacion es una **advertencia importante** para el usuario.|
@@ -43,9 +45,9 @@
 
 ### Anti Malware *(Bajo demanda)*
 
-* [**SpyBot Search & Destroy**](https://www.safer-networking.org/products/spybot-free-edition/)
-* [**SuperAntiSpyware**](https://www.superantispyware.com/)
-* [**Malwarebytes**](https://www.malwarebytes.com/es/)
+* [**SpyBot Search & Destroy**](https://www.safer-networking.org/compare-spybot-editions/)
+* [**SuperAntiSpyware**](https://www.superantispyware.com/download?productid=SUPERANTISPYWAREFREE)
+* [**Malwarebytes**](https://www.malwarebytes.com/es/mwb-download)
 * [**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; 📝*LiveCD*
 
 ### Firewall/Red
@@ -63,10 +65,10 @@
 
 ### Análisis Online
 
-* [**VirusTotal**](https://www.virustotal.com/)
-* [**FileScan**](https://www.filescan.io/)
-* [**Tria.ge**](http://tria.ge)
-* [**Nomoreransom**](https://www.nomoreransom.org/)
+* [**VirusTotal**](https://www.virustotal.com/) &nbsp; 🌐
+* [**FileScan**](https://www.filescan.io/) &nbsp; 🌐
+* [**Tria.ge**](http://tria.ge) &nbsp; 🌐
+* [**Nomoreransom**](https://www.nomoreransom.org/) &nbsp; 🌐
 
 ## 🔧 Instalación y Mantenimiento
 
@@ -108,11 +110,11 @@
 
 ### Instalación/Actualización
 
-* [**Ninite**](https://ninite.com/)
+* [**Ninite**](https://ninite.com/) &nbsp; 🌐
 * [**Chocolatey**](https://chocolatey.org/)
 * [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; 📝*WingetUI*
-* [**MS Generation Project**](https://store.rg-adguard.net/)
-* [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx)
+* [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
+* [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx) &nbsp; 🌐
 
 ## 🔬 Diagnóstico y Hardware
 
@@ -125,7 +127,7 @@
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) &nbsp; 📦 
 * [**OCCT**](https://www.ocbase.com/download) &nbsp; 📦 
 * [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html) &nbsp; 📦 
-* [**PSU Calculator**](https://www.coolermaster.com/en-global/power-supply-calculator/)
+* [**PSU Calculator**](https://www.coolermaster.com/en-global/power-supply-calculator/) &nbsp; 🌐
 
 ### Diagnóstico
 
@@ -148,7 +150,7 @@
 ### Redes
 
 * [**Advance IP Scanner**](https://www.advanced-ip-scanner.com/es/download/) &nbsp; 📦 
-* [**DNS Speed Test**](https://dnsspeedtest.online/\))
+* [**DNS Speed Test**](https://dnsspeedtest.online/) &nbsp; 🌐
 
 ## 💾 Respaldo y Recuperación
 
@@ -178,9 +180,9 @@
 * [**Rufus**](https://rufus.ie/es/) &nbsp; 📦 
 * [**MobaLiveCD**](https://www.mobatek.net/labs.html) &nbsp; 📦 
 * [**Ventoy**](https://sourceforge.net/projects/ventoy/) &nbsp; 📦 
-* [**PortableApps.com**](http://portableapps.com) &nbsp; 📦 
+* [**PortableApps.com**](http://portableapps.com/download) &nbsp; 📦 
 
-### Entornos de Rescate *(LiveCDs)*
+### LiveCDs
 
 * [**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk)
 * [**Hiren’s Boot**](https://www.hirensbootcd.org/)
@@ -200,14 +202,14 @@
 
 ### Repositorios
 
-* [**r/Piracy Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/)
-    * [**Software**](https://www.reddit.com/r/Piracy/wiki/megathread/software/)
-    * [**Tools**](https://www.reddit.com/r/Piracy/wiki/megathread/tools/)
-* [**FMHY**](https://fmhy.net/)
+* [**r/Piracy Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/) &nbsp; 🌐
+    * [**Software**](https://www.reddit.com/r/Piracy/wiki/megathread/software/) &nbsp; 🌐
+    * [**Tools**](https://www.reddit.com/r/Piracy/wiki/megathread/tools/) &nbsp; 🌐
+* [**FMHY**](https://fmhy.net/) &nbsp; 🌐
 
 ### Software
 
-* [**Soft 98**](https://soft98.ir)
+* [**Soft 98**](https://soft98.ir) &nbsp; 🌐
 
 ## 🧰 Utilidades Generales
 
@@ -275,14 +277,14 @@
 
 ## 🚚Proveedores
 
-* [**Hard Gamers**](https://www.hardgamers.com.ar/)  &nbsp; 📝*Comparador de precios*
-* [**FullH4rd**](https://fullh4rd.com.ar/)
-* [**Mexx**](https://www.mexx.com.ar/?srsltid=AfmBOorM7bBJ3lw_RkFIpU3Mwd--ycqgblScwp0tn5s-bzCqGKq-bg_u)
-* [**Venex**](https://www.venex.com.ar/?srsltid=AfmBOoqUAT-f3CY9JM18ulqN6ZZGe2E4q98e2YcEDw7lPnE8cPZh7aS5)
-* [**Maximus**](https://www.maximus.com.ar/?srsltid=AfmBOorCAtgqies1sUEGUYNuuUJxrS4RqxF0r9IDzOQCLip3-wnhpBro)
-* [**CompraGamer**](https://compragamer.com/)
-* [**MalditoHard**](https://www.malditohard.com.ar/)
-* [**Integrados Argentinos**](https://www.integradosargentinos.com/?srsltid=AfmBOoreLNQWqO44CL_lIDu5X9W-u_9hgGxsv_MFzmsllzWRnS0aTvK5)
+* [**Hard Gamers**](https://www.hardgamers.com.ar)  &nbsp; 📝*Comparador de precios*
+* [**FullH4rd**](https://fullh4rd.com.ar)
+* [**Mexx**](https://www.venex.com.ar)
+* [**Venex**](https://www.venex.com.ar)
+* [**Maximus**](https://www.maximus.com.ar)
+* [**CompraGamer**](https://compragamer.com)
+* [**MalditoHard**](https://www.malditohard.com.ar)
+* [**Integrados Argentinos**](https://www.integradosargentinos.com)
 
 ## 🏷️Marcas
 
@@ -290,43 +292,43 @@
 
 ### Memoria RAM
 
-* [**G.Skill**](https://www.gskill.com/)
-* [**Corsair**](https://www.corsair.com/lm/es?srsltid=AfmBOopPCU4YQMZVqKinPVsNU-uPEDoTC47y-f9c_bb5MbURfXrof2il)
-* [**Crucial**](https://www.crucial.com/?srsltid=AfmBOoq1FF2F7Cd7d-TnHxBKzxb7B2vfWApy7EDRrxn-oFuX0Ywitcqj)
-* [**Kingston**](https://www.kingston.com/es)
-* [**Adata**](https://www.adata.com/ar/)
+* [**G.Skill**](https://www.gskill.com)
+* [**Corsair**](https://www.corsair.com)
+* [**Crucial**](https://www.crucial.com)
+* [**Kingston**](https://www.kingston.com)
+* [**Adata**](https://www.adata.com)
 
 ### PSU
 
-* [**Corsair**](https://www.corsair.com/lm/es?srsltid=AfmBOorSABmVkkEb75xYlOlv42KLW5iBIUKbwjVbhDXdS_7Sw9dMfUSV)
-* [**Thermaltake**](https://es.thermaltake.com/)
-* [**Cooler Master**](https://www.coolermaster.com/)
-* [**EVGA**](https://www.evga.com/)
-* [**NZXT**](https://nzxt.com/es-intl?srsltid=AfmBOooy53qBZfopOupKIIsBPsdfX-L-GUguPO3fzsoNims9mCG_FLuz)
-* [**Sentey**](https://www.sentey.com/es/cases)
-* [**Gigabyte**](https://www.gigabyte.com/)
+* [**Corsair**](https://www.corsair.com)
+* [**Thermaltake**](https://es.thermaltake.com)
+* [**Cooler Master**](https://www.coolermaster.com)
+* [**EVGA**](https://www.evga.com)
+* [**NZXT**](https://nzxt.com)
+* [**Sentey**](https://www.sentey.com)
+* [**Gigabyte**](https://www.gigabyte.com)
 
 ### Motherboards
 
-* [**Gigabyte**](https://www.gigabyte.com/)
-* [**ASUS**](https://www.asus.com/ar/)
-* [**MSI**](https://www.msi.com/index.php)
-* [**ASRock**](https://www.asrock.com/index.es.asp)
+* [**Gigabyte**](https://www.gigabyte.com)
+* [**ASUS**](https://www.asus.com)
+* [**MSI**](https://www.msi.com)
+* [**ASRock**](https://www.asrock.com)
 
 ### HDD
 
 | Marca | Uso General | Videovigilancia | NAS | Datacenter |
 | - | - | - | - | - |
-| [**Seagate**](https://www.seagate.com/) | Barracuda | SkyHawk | IronWolf | Exos |
-| [**Western Digital**](https://www.westerndigital.com/es-la) | Blue | Purple | Red | Gold |
+| [**Seagate**](https://www.seagate.com) | Barracuda | SkyHawk | IronWolf | Exos |
+| [**Western Digital**](https://www.westerndigital.com) | Blue | Purple | Red | Gold |
 
 ### SSD
 
-* [**Corsair**](https://www.corsair.com/lm/es?srsltid=AfmBOoorEHNUR7xB3acC9xL0CwHPGJCKv-pLLHJiTecxyaxci86dp0s6)
-* [**Crucial**](https://crucial.ar/)
-* [**Gigabyte**](https://www.gigabyte.com/)
-* [**Kingston**](https://www.kingston.com/es)
-* [**Adata**](https://www.adata.com/ar/)
+* [**Corsair**](https://www.corsair.com)
+* [**Crucial**](https://crucial.ar)
+* [**Gigabyte**](https://www.gigabyte.com)
+* [**Kingston**](https://www.kingston.com)
+* [**Adata**](https://www.adata.com)
 
 ### Placa Gráfica
 
@@ -349,7 +351,7 @@
 
 * **Intel Core 8000 / AMD Ryzen 3000G**
 * **8 - 16 GB de RAM**
-* [**Windows 11 LTSC**](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) **+** [**CTT**](https://christitus.com/windows-tool/) **+** [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/5d2b03883b4fc25b358428a98d375a2a11dc9df8/AtlasDesktop) &nbsp;  &nbsp;
+* [**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links) **+** [**CTT**](https://christitus.com/windows-tool/) **+** [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/a895ca712956b6a5226166e49c696913ca765a9f/Scripts/AtlasDesktop)
 * [**Windows 10**](https://www.microsoft.com/en-gb/software-download/windows10) (x86) &nbsp; ‼️*Win10 sin soporte oficial* 
 
 ## ⚡ Medición de Fuente
@@ -367,7 +369,7 @@
 
 | Tensión | Pin | Color | Color | Pin | Tensión | 
 | - | - | - | - | - | - |
-| +3.3 V   | **1**  | 🟧 | 🟫 | **13** | +3.3 V |
+| +3.3 V   | **1**  | 🟧 | 🟧 | **13** | +3.3 V |
 | +3.3 V   | **2**  | 🟧 | 🟦 | **14** | -12 V  |
 | COM      | **3**  | ⬛ | ⬛ | **15** | COM    |
 | +5 V     | **4**  | 🟥 | 🟩 | **16** | PS_ON  |
@@ -435,13 +437,13 @@
 
 ## 🔤Nomenclaturas
 
-* ### CPU
-   * <img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745209716818/AMD_CPU.png?ex=697988a6&is=69783726&hm=e17634e2e1c2885ce845c6e6a66730b8ca2a7dcfe9cd7193cfc319ed057ff1c6&=&format=webp&quality=lossless" >
-   * <img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745733869620/INTEL_CPU.png?ex=697988a6&is=69783726&hm=bb9cbfdfd0be8ae41dfba51311a358e927cff47493521fa140867dd4c4b3e31b&=&format=webp&quality=lossless" >
+### CPU
+<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745209716818/AMD_CPU.png?ex=697988a6&is=69783726&hm=e17634e2e1c2885ce845c6e6a66730b8ca2a7dcfe9cd7193cfc319ed057ff1c6&=&format=webp&quality=lossless" >
+<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745733869620/INTEL_CPU.png?ex=697988a6&is=69783726&hm=bb9cbfdfd0be8ae41dfba51311a358e927cff47493521fa140867dd4c4b3e31b&=&format=webp&quality=lossless" >
 
-* ### GPU
-   * <img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746484785346/NVIDIA_GPU.png?ex=697988a6&is=69783726&hm=a799b7253bfc58a60aa5f7f662912a06e1ffa52615ae9bfbbdb22f218c221161&=&format=webp&quality=lossless" >
-   * <img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746140983449/AMD_GPU.png?ex=697988a6&is=69783726&hm=44f0a52a24be0e2b20cbe9654fe55f71f02cb9e1d3bdc143b2dd6511689c9494&=&format=webp&quality=lossless" >
+### GPU
+<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746484785346/NVIDIA_GPU.png?ex=697988a6&is=69783726&hm=a799b7253bfc58a60aa5f7f662912a06e1ffa52615ae9bfbbdb22f218c221161&=&format=webp&quality=lossless" >
+<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746140983449/AMD_GPU.png?ex=697988a6&is=69783726&hm=44f0a52a24be0e2b20cbe9654fe55f71f02cb9e1d3bdc143b2dd6511689c9494&=&format=webp&quality=lossless" >
 
 ### Distribución de Teclados
 
