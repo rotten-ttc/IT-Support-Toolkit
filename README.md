@@ -124,13 +124,13 @@
 
 ## Diagnóstico
 
+* [**Lock Hunter**](https://lockhunter.com/download.htm)
+* [**BlueScreenView**]📦(https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks)
 * [**Resplendence Suite**](https://www.resplendence.com/downloads)
     * [**WhoCrashed**](https://www.resplendence.com/downloads)
 * [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html)📦 
 * [**Keyboard Test**](https://github.com/10yard/keyboardtester/releases)📦 
 * **SIGVERIF**🪟 &nbsp; `sigverif`
-* [**BlueScreenView**](https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks)
-* [**Lock Hunter**](https://lockhunter.com/download.htm)
 
 ## Pruebas y Reparación
 
