@@ -1,50 +1,54 @@
+
 ## 🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC 🛠️
 
 ***@rotten_ttc***
 
 ### Indicadores de referencia
 |Icono|Significado|
-|:----|:----|
+|----|----|
 |📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
 |🪟| Indica que el software es una **herramienta nativa de Windows**.|
-|❗❗| Indica que el texto es una **advertencia importante** para el usuario.|
+|`>_`| Indica que el texto a continuacion es un **comando de consola**.|
+|✏️| Indica que el texto a continuacion es una **nota**.|
+|❗| Indica que el texto es una **advertencia importante** para el usuario.|
 
 # 💻 Herramientas de Software
 
 ## ⚙️ Preparación de Sistema
 
 * [**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links)
-* [**CTT Utility**](https://christitus.com/windows-tool/) &nbsp; `irm christitus.com/win | iex`
-* [**Massgrave**](https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file) &nbsp; `irm https://get.activated.win | iex`
-* [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html)📦
-* [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ❗*Al bootear desde el pendrive se instala el sistema automáticamente*❗
+* [**CTT Utility**](https://christitus.com/windows-tool/) &nbsp; `>_` `irm christitus.com/win | iex`
+* [**Massgrave**](https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file) &nbsp; `>_` `irm https://get.activated.win | iex`
+* [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html) &nbsp; 📦
+* [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ❗*Al bootear desde el pendrive se instala el sistema automáticamente*
 * [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/6d4827b93b165bfaa0f87acccd87d06fa8ac06ba/Scripts/AtlasDesktop)
 
 ## 🛡️ Seguridad
 
-### Antivirus (Requisitos medios/altos)
+### Antivirus
+✏️*Ordenadas de mejor a peor*
 
-* **Windows Defender**🪟 &nbsp; `start windowsdefender:`
-    * **Malicious Removal Tool**🪟 &nbsp; `mrt`
-* [**Norton**](https://ar.norton.com/)
-* [**Kaspersky**](https://www.kaspersky.com/)
+|Antivirus|Consumo|
+|:----|:----|
+|[**Kaspersky**](https://www.kaspersky.com/)|Medio|
+|[**Norton**](https://ar.norton.com/)|Alto |
+|**Windows Defender** &nbsp; 🪟 `>_` `start windowsdefender:`|Alto |
+|[**Avira**](https://www.avira.com/es?srsltid=AfmBOoqn3e2xm4DsIbetWA-DvKvF2VZ_vanKTy06ihXMUMVWqhTlpPug)|Bajo |
+|[**Panda Free**](https://www.pandasecurity.com/es/homeusers/free-antivirus/)|Bajo |
+|[**360 Total Security**](https://www.360totalsecurity.com/es/)|Medio|
 
-### Requisitos bajos
+**Malicious Removal Tool** &nbsp; 🪟 ✏️*Complemento de Windows Defender* `>_` `mrt` 
 
-* [**Panda Free**](https://www.pandasecurity.com/es/homeusers/free-antivirus/)
-* [**Avira**](https://www.avira.com/es?srsltid=AfmBOoqn3e2xm4DsIbetWA-DvKvF2VZ_vanKTy06ihXMUMVWqhTlpPug)
-* [**360 Total Security**](https://www.360totalsecurity.com/es/)
-
-### Anti Malware (Bajo demanda)
+### Anti Malware *(Bajo demanda)*
 
 * [**SpyBot Search & Destroy**](https://www.safer-networking.org/products/spybot-free-edition/)
 * [**SuperAntiSpyware**](https://www.superantispyware.com/)
 * [**Malwarebytes**](https://www.malwarebytes.com/es/)
-* [**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; *LiveCD*
+* [**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; ✏️*LiveCD*
 
 ### Firewall/Red
 
-* 🪟 **Windows Firewall**
+* **Windows Firewall** &nbsp; 🪟
     * [**Windows Firewall Control**](https://binisoft.org/wfc)
 * [**ZoneAlarm**](https://www.zonealarm.com/es)
 * [**Comodo**](https://www.comodo.com/home/internet-security/firewall.php)
@@ -66,37 +70,37 @@
 
 ## Limpieza
 
-* [**CCleaner**](https://www.ccleaner.com/es-es/ccleaner?srsltid=AfmBOorx6n97qe7dRDUM1nJrkVyptmleIL35L_S3BiyUGdJhll8KxQUO)📦 
-* [**Argente Registry Cleaner**](https://argenteutilities.com/es/downloads)📦 
-* [**Glary Utilities**](https://www.glarysoft.com/downloads/?p=gu-page)📦
-* [**WizTree**](https://diskanalyzer.com/)📦 
+* [**CCleaner**](https://www.ccleaner.com/es-es/ccleaner?srsltid=AfmBOorx6n97qe7dRDUM1nJrkVyptmleIL35L_S3BiyUGdJhll8KxQUO) &nbsp; 📦 
+* [**Argente Registry Cleaner**](https://argenteutilities.com/es/downloads) &nbsp; 📦 
+* [**Glary Utilities**](https://www.glarysoft.com/downloads/?p=gu-page) &nbsp; 📦
+* [**WizTree**](https://diskanalyzer.com/) &nbsp; 📦 
 
 ## Gestión de Discos
 
-* [**Defraggler**](https://www.ccleaner.com/defraggler?srsltid=AfmBOoosx3YFNtSl-8Cgg5tCMOuI9APEIhvQWho5JeFEvrNV8Tr19nLr)[📦](https://portableapps.com/apps/utilities/dfgportable) 
-* [**Win Setup USB**](https://winsetupfromusb.org/)📦 
+* [**Defraggler**](https://www.ccleaner.com/defraggler?srsltid=AfmBOoosx3YFNtSl-8Cgg5tCMOuI9APEIhvQWho5JeFEvrNV8Tr19nLr) &nbsp; [📦](https://portableapps.com/apps/utilities/dfgportable) 
+* [**Win Setup USB**](https://winsetupfromusb.org/) &nbsp; 📦 
 * [**MiniTool Partition Wizard**](https://www.partitionwizard.com/)
 
 ## Gestión de Sistema
 
-* [**Sysinternals Suite**](https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite)📦 
-    * [**Process Explorer**](https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer)📦 
-    * [**Autoruns**](https://learn.microsoft.com/es-es/sysinternals/downloads/autoruns)📦 
-    * [**AutoLogon**](https://learn.microsoft.com/es-es/sysinternals/downloads/autologon)📦 
-* [**Bulk Crap Uninstaller**](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases)📦
-* [**Revo Uninstaller Free**](https://www.revouninstaller.com/products/revo-uninstaller-free/)📦 
-* [**G-Helper**](https://github.com/seerge/g-helper/releases)📦 &nbsp; *Laptops ASUS*
-* [**Fan Control**](https://getfancontrol.com/)📦 
+* [**Sysinternals Suite**](https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite) &nbsp; 📦 
+    * [**Process Explorer**](https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer) &nbsp; 📦 
+    * [**Autoruns**](https://learn.microsoft.com/es-es/sysinternals/downloads/autoruns) &nbsp; 📦 
+    * [**AutoLogon**](https://learn.microsoft.com/es-es/sysinternals/downloads/autologon) &nbsp; 📦 
+* [**Bulk Crap Uninstaller**](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases) &nbsp; 📦
+* [**Revo Uninstaller Free**](https://www.revouninstaller.com/products/revo-uninstaller-free/) &nbsp; 📦 
+* [**G-Helper**](https://github.com/seerge/g-helper/releases) &nbsp; 📦✏️*Laptops ASUS*
+* [**Fan Control**](https://getfancontrol.com/) &nbsp; 📦 
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
-* [**AtlasOS**](https://atlasos.net/) &nbsp; ❗*Solo recomendado para uso personal*❗
+* [**AtlasOS**](https://atlasos.net/) &nbsp; ❗*Solo recomendado para uso personal*
 
 ## Gestión de Drivers
 
-* [**DDU**](https://www.guru3d.com/download/display-driver-uninstaller-download/)📦 
-* [**DriverStoreExplorer**](https://github.com/lostindark/DriverStoreExplorer)📦 
-* [**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/)📦 
-* [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html)📦 
-* [**NVClean Install**](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)📦 
+* [**DDU**](https://www.guru3d.com/download/display-driver-uninstaller-download/) &nbsp; 📦 
+* [**DriverStoreExplorer**](https://github.com/lostindark/DriverStoreExplorer) &nbsp; 📦 
+* [**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
+* [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html) &nbsp; 📦 
+* [**NVClean Install**](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) &nbsp; 📦 
 * [**AMD Auto Detect Drivers**](https://www.amd.com/en/support/download/drivers.html)
 * [**Intel Drivers**](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 * [**Qualcomm Athernos**](https://www.ath-drivers.eu/)
@@ -105,7 +109,7 @@
 
 * [**Ninite**](https://ninite.com/)
 * [**Chocolatey**](https://chocolatey.org/)
-* [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; *WingetUI*
+* [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; ✏️*WingetUI*
 * [**MS Generation Project**](https://store.rg-adguard.net/)
 * [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx)
 
@@ -113,67 +117,67 @@
 
 ## Información de Hardware
 
-* [**CrystalDiskInfo**](https://crystalmark.info/en/download/#CrystalDiskInfo)📦 
-* [**Clear Disk Info de Carifred**](https://www.carifred.com/cleardiskinfo/)📦 
+* [**CrystalDiskInfo**](https://crystalmark.info/en/download/#CrystalDiskInfo) &nbsp; 📦 
+* [**Clear Disk Info de Carifred**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
 * [**USB Tree Viewer**](https://www.majorgeeks.com/files/details/usb_device_tree_viewer.html)
-* [**HWiNFO**](https://www.hwinfo.com/)📦 
-* [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html)📦 
-* [**OCCT**](https://www.ocbase.com/download)📦 
-* [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html)📦 
+* [**HWiNFO**](https://www.hwinfo.com/) &nbsp; 📦 
+* [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) &nbsp; 📦 
+* [**OCCT**](https://www.ocbase.com/download) &nbsp; 📦 
+* [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html) &nbsp; 📦 
 * [**PSU Calculator**](https://www.coolermaster.com/en-global/power-supply-calculator/)
 
 ## Diagnóstico
 
 * [**Lock Hunter**](https://lockhunter.com/download.htm)
-* [**BlueScreenView**]📦(https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks)
+* [**BlueScreenView**](https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks) &nbsp; 📦
 * [**Resplendence Suite**](https://www.resplendence.com/downloads)
     * [**WhoCrashed**](https://www.resplendence.com/downloads)
-* [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html)📦 
-* [**Keyboard Test**](https://github.com/10yard/keyboardtester/releases)📦 
-* **SIGVERIF**🪟 &nbsp; `sigverif`
+* [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html) &nbsp; 📦 
+* [**Keyboard Test**](https://github.com/10yard/keyboardtester/releases) &nbsp; 📦 
+* **SIGVERIF** &nbsp; 🪟`>_` `sigverif`
 
 ## Pruebas y Reparación
 
 * [**PassMark Software**](https://www.passmark.com/)
-    * [**Performance Test**](https://www.passmark.com/products/performancetest/download.php)[📦](https://www.passmark.com/support/performancetest_faq/portable-usb.php) 
+    * [**Performance Test**](https://www.passmark.com/products/performancetest/download.php) &nbsp; [📦](https://www.passmark.com/support/performancetest_faq/portable-usb.php) 
     * [**MemTest86**](https://www.memtest86.com/download.htm)
-* [**Verónica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/files/)📦 
+* [**Verónica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/files/) &nbsp; 📦 
 * [**SpinRite**](https://www.grc.com/sr/spinrite.htm)
 
 ## Redes
 
-* [**Advance IP Scanner**](https://www.advanced-ip-scanner.com/es/download/)📦 
+* [**Advance IP Scanner**](https://www.advanced-ip-scanner.com/es/download/) &nbsp; 📦 
 * [**DNS Speed Test**](https://dnsspeedtest.online/\))
 
 # 💾 Respaldo y Recuperación
 
 ## Backup e Imágenes
 
-* [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html)📦 
-* [**Registry Backup Tool**](https://www.majorgeeks.com/files/details/tweaking_com_registry_backup_portable.html)📦 
+* [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html) &nbsp; 📦 
+* [**Registry Backup Tool**](https://www.majorgeeks.com/files/details/tweaking_com_registry_backup_portable.html) &nbsp; 📦 
 * [**Macrium Reflect**](https://www.macrium.com/)
 * [**Cobian Backup 11 Gravity**](https://www.cobiansoft.com/)
 * [**Clonzilla**](https://clonezilla.org/downloads.php)
 
 ## Restauración de Sistema
 
-* [**Recuva**](https://www.ccleaner.com/recuva?srsltid=AfmBOorylJ-cMN2L6YcFI6pt4Yfyg_8pC9sfMnDB0h4ra8NSacO8qeec)[📦](https://portableapps.com/apps/utilities/rcvportable)
+* [**Recuva**](https://www.ccleaner.com/recuva?srsltid=AfmBOorylJ-cMN2L6YcFI6pt4Yfyg_8pC9sfMnDB0h4ra8NSacO8qeec) &nbsp; [📦](https://portableapps.com/apps/utilities/rcvportable)
 * [**Rollback RX Pro**](https://horizondatasys.com/rollback-rx-time-machine/rollback-rx-professional/)
 * [**Deep Freeze**](https://www.faronics.com/es/products/deep-freeze)
 
 ## Creación de ISO
 
-* [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg)🪟 *(Audit Mode)* &nbsp; `C:\Windows\System32\Sysprep\sysprep.exe`
+* [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg) &nbsp; 🪟 ✏️ *Audit Mode* `>_` `C:\Windows\System32\Sysprep\sysprep.exe`
 * [**WinToolkit**](https://m.majorgeeks.com/files/details/win_toolkit.html)
 
 # 🤝 Herramientas de Soporte y Pendrive
 
 ## Creación de USBs
 
-* [**Rufus**](https://rufus.ie/es/)📦 
-* [**MobaLiveCD**](https://www.mobatek.net/labs.html)📦 
-* [**Ventoy**](https://sourceforge.net/projects/ventoy/)📦 
-* [**PortableApps.com**](http://portableapps.com)📦 
+* [**Rufus**](https://rufus.ie/es/) &nbsp; 📦 
+* [**MobaLiveCD**](https://www.mobatek.net/labs.html) &nbsp; 📦 
+* [**Ventoy**](https://sourceforge.net/projects/ventoy/) &nbsp; 📦 
+* [**PortableApps.com**](http://portableapps.com) &nbsp; 📦 
 
 ## Entornos de Rescate *(LiveCDs)*
 
@@ -185,13 +189,13 @@
 ## Acceso Remoto
 
 * [**RustDesk**](https://github.com/rustdesk/rustdesk/releases/tag/1.4.5)
-* [**TeamViewer**](https://www.teamviewer.com/es/download/windows/)[📦](https://portableapps.com/apps/utilities/teamviewer_portable) 
+* [**TeamViewer**](https://www.teamviewer.com/es/download/windows/) &nbsp; [📦](https://portableapps.com/apps/utilities/teamviewer_portable) 
 * [**AnyDesk**](https://anydesk.com/es)
-* [**Desk Flow**](https://github.com/deskflow/deskflow/releases) &nbsp; *El mismo mouse y teclado para dos PC*
+* [**Desk Flow**](https://github.com/deskflow/deskflow/releases) &nbsp; ✏️*El mismo mouse y teclado para dos PC*
 
 # 🏴‍☠️ Piratería
 
-❗ **Todo el contenido de esta categoría está verificado y validado por una comunidad, sin embargo debe proceder con responsabilidad y criterio** ❗
+❗ **Todo el contenido de esta categoría está verificado y validado por una comunidad, sin embargo debe proceder con responsabilidad y criterio**
 
 ## Repositorios
 
@@ -206,15 +210,15 @@
 
 # ➕ Utilidades Generales
 
-* [**7-Zip**](https://www.7-zip.org/)[📦](https://portableapps.com/apps/utilities/7-zip_portable) &nbsp; *Compresión*
-* [**CS 1.6**](https://down-cs.su/clean.php)📦 &nbsp; *No puede faltar*
-* [**Everything**](https://www.voidtools.com/downloads/)📦 &nbsp; *Búsqueda completa de archivos*
-* [**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager)📦 &nbsp; *Manager de memoria onboard*
-* [**Supermium**](https://github.com/win32ss/supermium/releases)📦 &nbsp; *Buscador ultra ligero*
-* [**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter)📦 &nbsp; *Lector de PDF*
-* [**WPS Office**](https://es.wps.com/download/) &nbsp; *Alternativa a Microsoft Office*
+* [**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)✏️*Compresión*
+* [**CS 1.6**](https://down-cs.su/clean.php) &nbsp; 📦✏️*No puede faltar*
+* [**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦✏️*Búsqueda completa de archivos*
+* [**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) &nbsp; 📦✏️*Manager de memoria onboard*
+* [**Supermium**](https://github.com/win32ss/supermium/releases) &nbsp; 📦✏️*Buscador ultra ligero*
+* [**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter) &nbsp; 📦✏️*Lector de PDF*
+* [**WPS Office**](https://es.wps.com/download/) &nbsp; ✏️*Alternativa a Microsoft Office*
 * [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
-* [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php)[📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable) &nbsp; *Desbloquear archivos*
+* [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)✏️*Desbloquear archivos*
 
 # 🔩 Herramientas de Hardware
 
@@ -230,11 +234,11 @@
 
 ## Adaptadores
 
-* **VGA ==== HDMI**
-* **MOLEX == SATA**
-* **USB ==== PS/2**
-* **USB ==== SATA/IDE**
-* **USB ==== M.2 NVMe**
+|From|To|
+|-|-|
+|**USB**|**PS/2, SATA/IDE, M.2 NVMe**|
+|**VGA**|**HDMI**|
+|**MOLEX**|**SATA**|
 
 ## Limpieza
 
@@ -258,19 +262,19 @@
 
 * **Precintos**
 * **Aire Comprimido**
-* **Pasta Termica** ([***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5))
+* **Pasta Termica**  &nbsp; ✏️[***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5)
 * **Cables SATA**
 * **Adaptador MOLEX \> SATA**
 * **Fichas RJ45**
 * **Tornillos**
-* **Pila de Motherboard** ([***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v))
-* **Alcohol Isopropílico** &nbsp; ❗**\>= 95º**❗
+* **Pila de Motherboard**  &nbsp; ✏️[***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v)
+* **Alcohol Isopropílico** &nbsp; ❗**\>= 95º**
 
 # 💡 Guías y Sugerencias
 
 ## Proveedores
 
-* [**Hard Gamers**](https://www.hardgamers.com.ar/) *Comparador de precios*
+* [**Hard Gamers**](https://www.hardgamers.com.ar/)  &nbsp; ✏️*Comparador de precios*
 * [**FullH4rd**](https://fullh4rd.com.ar/)
 * [**Mexx**](https://www.mexx.com.ar/?srsltid=AfmBOorM7bBJ3lw_RkFIpU3Mwd--ycqgblScwp0tn5s-bzCqGKq-bg_u)
 * [**Venex**](https://www.venex.com.ar/?srsltid=AfmBOoqUAT-f3CY9JM18ulqN6ZZGe2E4q98e2YcEDw7lPnE8cPZh7aS5)
@@ -281,7 +285,7 @@
 
 ## Marcas
 
-*Ordenadas de mejor a peor*
+✏️*Ordenadas de mejor a peor*
 
 ### Memoria RAM
 
@@ -311,7 +315,7 @@
 ### HDD
 
 | Marca | Uso General | Videovigilancia | NAS | Datacenter |
-| :--- | :--- | :--- | :--- | :--- |
+| - | - | - | - | - |
 | [**Seagate**](https://www.seagate.com/) | Barracuda | SkyHawk | IronWolf | Exos |
 | [**Western Digital**](https://www.westerndigital.com/es-la) | Blue | Purple | Red | Gold |
 
@@ -334,18 +338,18 @@
 ### Pasta Térmica
 
 | Pasta Térmica | Rendimiento Termico|
-| :--- | :--- |
+| - | - |
 | [**Arctic MX-4**](https://listado.mercadolibre.com.ar/pasta-termica-mx4) | Alta temperatura |
 | [**Noctua**](https://listado.mercadolibre.com.ar/noctua) | Media / Alta temperatura |
 | [**Delta GPM 5**](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5) | Media temperatura |
 | [**Delta Siliconada**](https://listado.mercadolibre.com.ar/grasa-siliconada-delta) | Baja temperatura  (***Uso general***) |
 
-### Requisitos Mínimos (SOHO)
+### Requisitos Mínimos *(SOHO)*
 
 * **Intel Core 8000 / AMD Ryzen 3000G**
 * **8 - 16 GB de RAM**
 * [**Windows 11 LTSC**](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) **+** [**CTT**](https://christitus.com/windows-tool/) **+** [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/5d2b03883b4fc25b358428a98d375a2a11dc9df8/AtlasDesktop) &nbsp;  &nbsp;
-* [**Windows 10**](https://www.microsoft.com/en-gb/software-download/windows10) *(x86)*  &nbsp; ❗*Win10 sin soporte oficial*❗ 
+* [**Windows 10**](https://www.microsoft.com/en-gb/software-download/windows10) (x86) &nbsp; ❗*Win10 sin soporte oficial* 
 
 ### Medición de Fuentes
 
@@ -353,15 +357,15 @@
 
 2. **Colocar la punta negra del tester en un cable negro** (**COM**) **y medir con la punta roja en cada pin.**
 
-*Cálculo para fuentes genéricas: Watts reales = Watts totales − 67% (Aproximadamente)*
+✏️*Cálculo para fuentes genéricas: Watts reales = Watts totales − 67% (Aproximadamente)*
 
 ### Diagramas de pines de fuente
-❗Para leer estos cuadros se deben ver los pines del conector directamente❗
+❗Para leer estos cuadros se deben ver los pines del conector directamente
 
-* **Conector ATX de 24 pines** *( 20 + 4 )* *( Orientación ▶ )*
+* **Conector ATX de 24 pines  ( 20 + 4 )**  &nbsp; ✏️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color | Color | Pin | Tensión | 
-| :--- | :---: | :---: | :---: | :---: | ---: |
+| - | - | - | - | - | - |
 | +3.3 V   | **1**  | 🟧 | 🟫 | **13** | +3.3 V |
 | +3.3 V   | **2**  | 🟧 | 🟦 | **14** | -12 V  |
 | COM      | **3**  | ⬛ | ⬛ | **15** | COM    |
@@ -377,10 +381,10 @@
 | +12 V    | **11** | 🟡 | 🟥 | **23** | +5 V   |
 | +3.3 V   | **12** | 🟧 | ⬛ | **24** | COM    |
 
-* **Conector CPU ATX12V** *( 4 + 4 )* *( Orientación ▶ )*
+* **Conector CPU ATX12V ( 4 + 4 )** &nbsp; ✏️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color | Color | Pin | Tensión |
-| :--- | :---: | :---: | :---: | :---: | ---: |
+| - | - | - | - | - | - |
 | COM  | **1** | ⬛ | 🟡 | **5** | +12 V |
 | COM  | **2** | ⬛ | 🟡 | **6** | +12 V |
 ||
@@ -388,10 +392,10 @@
 | COM  | **3** | ⬛ | 🟡 | **7** | +12 V |
 | COM  | **4** | ⬛ | 🟡 | **8** | +12 V |
 
-* **Conector PCIe de 8 pines** *( 6 + 2 )* *( Orientación ▶ )*
+* **Conector PCIe de 8 pines ( 6 + 2 )** &nbsp; ✏️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color | Color | Pin | Tensión |
-| :--- | :---: | :---: | :---: | :---: | ---: |
+| - | - | - | - | - | - |
 | +12 V | **1** | 🟡 | ⬛ | **5** | COM |
 | +12 V | **2** | 🟡 | ⬛ | **6** | COM |
 | +12 V | **3** | 🟡 | ⬛ | **7** | COM |
@@ -399,10 +403,10 @@
 ||
 |  COM  | **4** | ⬛ | ⬛ | **8** | COM |
 
-* **Conector SATA** *( Orientación 🇱 )*
+* **Conector SATA**  &nbsp; ✏️ *( Orientación 🇱 )*
 
 | Tensión | Pin | Color |
-| :--- | :---: | :---: |
+| - | - | - |
 | +12 V  | **15**  | 🟡 |
 | +12 V  | **14**  | 🟡 |
 | +12 V  | **13**  | 🟡 |
@@ -419,7 +423,7 @@
 | +3.3 V | **2**   | 🟧 |
 | +3.3 V | **1**   | 🟧 |
 
-* **Conector MOLEX** *( Orientación ▶ )*
+* **Conector MOLEX** ✏️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color |
 | :--- | :---: | :---: |
@@ -446,9 +450,9 @@
 
 ### Servicios Técnicos
 
-* [**NSP Caballito**](https://nsp.com.ar/) &nbsp; *General*
-* [**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; *Motherboards*
-* [**Grupo GB**](https://grupogb.com.ar/) &nbsp; *Celulares*
+* [**NSP Caballito**](https://nsp.com.ar/) &nbsp; ✏️*General*
+* [**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ✏️*Motherboards*
+* [**Grupo GB**](https://grupogb.com.ar/) &nbsp; ✏️*Celulares*
 
 ### Bibliografía
 
