@@ -2,7 +2,7 @@
 
 ## 🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC 🛠️
 
-***@rotten_ttc***
+-***@Rotten_ttc***  por todos lados- 
 
 ## 📍Indicadores de referencia
 |Icono|Significado|
