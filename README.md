@@ -8,7 +8,7 @@
 |Icono|Significado|
 |-|-|
 |📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
-|🪟| Indica que el software es una **herramienta nativa de Windows**.|
+|🇼| Indica que el software es una **herramienta nativa de Windows**.|
 |`>_`| Indica que el texto a continuacion es un **comando de consola**.|
 |✏️| Indica que el texto a continuacion es una **nota**.|
 |❗| Indica que el texto es una **advertencia importante** para el usuario.|
@@ -33,12 +33,12 @@
 |-|-|
 |[**Kaspersky**](https://www.kaspersky.com/)|Medio|
 |[**Norton**](https://ar.norton.com/)|Alto |
-|**Windows Defender** &nbsp; 🪟 `>_` `start windowsdefender:`|Alto |
+|**Windows Defender** &nbsp; 🇼 `>_` `start windowsdefender:`|Alto |
 |[**Avira**](https://www.avira.com/es?srsltid=AfmBOoqn3e2xm4DsIbetWA-DvKvF2VZ_vanKTy06ihXMUMVWqhTlpPug)|Bajo |
 |[**Panda Free**](https://www.pandasecurity.com/es/homeusers/free-antivirus/)|Bajo |
 |[**360 Total Security**](https://www.360totalsecurity.com/es/)|Medio|
 
-* **Malicious Removal Tool** &nbsp; 🪟 ✏️*Complemento de Windows Defender* `>_` `mrt` 
+* **Malicious Removal Tool** &nbsp; 🇼 ✏️*Complemento de Windows Defender* `>_` `mrt` 
 
 ### Anti Malware *(Bajo demanda)*
 
@@ -49,7 +49,7 @@
 
 ### Firewall/Red
 
-* **Windows Firewall** &nbsp; 🪟
+* **Windows Firewall** &nbsp; 🇼
     * [**Windows Firewall Control**](https://binisoft.org/wfc)
 * [**ZoneAlarm**](https://www.zonealarm.com/es)
 * [**Comodo**](https://www.comodo.com/home/internet-security/firewall.php)
@@ -135,7 +135,7 @@
     * [**WhoCrashed**](https://www.resplendence.com/downloads)
 * [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html) &nbsp; 📦 
 * [**Keyboard Test**](https://github.com/10yard/keyboardtester/releases) &nbsp; 📦 
-* **SIGVERIF** &nbsp; 🪟`>_` `sigverif`
+* **SIGVERIF** &nbsp; 🇼`>_` `sigverif`
 
 ### Pruebas y Reparación
 
@@ -168,7 +168,7 @@
 
 ### Creación de ISO
 
-* [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg) &nbsp; 🪟 ✏️ *Audit Mode* `>_` `C:\Windows\System32\Sysprep\sysprep.exe`
+* [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg) &nbsp; 🇼 ✏️ *Audit Mode* `>_` `C:\Windows\System32\Sysprep\sysprep.exe`
 * [**WinToolkit**](https://m.majorgeeks.com/files/details/win_toolkit.html)
 
 ## 🆘 Herramientas de Soporte y Pendrive
