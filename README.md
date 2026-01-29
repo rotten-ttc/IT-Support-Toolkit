@@ -177,7 +177,7 @@
 * [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
 * [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx) &nbsp; 🌐
 
-## 🔬 Diagnóstico e Reparación
+## 🔬 Diagnóstico y Reparación
 
 ### Información de Hardware
 
