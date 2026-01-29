@@ -12,6 +12,7 @@
       <summary>🛠️ IT Support Toolkit 🛠️</a></summary>
       <ul>
         <li><a href="#indicadores-de-referencia">📍 Indicadores de referencia</a></li>
+        <li><a href="#-top-10-it-support-toolkit">🏆 Top 10 IT Support Toolkit</a></li>
         <li>
           <details>
             <summary><a href="#-herramientas-de-software">💻 Herramientas de Software</a></summary>
@@ -140,6 +141,53 @@
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
  
+# 🏆 Top 10 IT Support Toolkit
+
+> [!NOTE]
+> **Selección de las mejores herramientas de este repositorio.**
+
+### 1. [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
+* ⚙️ [**Preparación de Sistema**](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)
+* 💡 Combinación de una versión ligera y estable de Windows (LTSC) con un script de automatización para post-instalación.
+
+### 2. [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
+* 🆘 [**Sistemas Portables**](#sistemas-portables)
+* 💡 Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. Útil para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
+
+### 3. [Ventoy](https://sourceforge.net/projects/ventoy/)
+* 🆘 [**Creación de USBs**](#creaci%C3%B3n-de-usbs)
+* 💡 Permite crear una unidad de arranque múltiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
+
+### 4. [Macrium Reflect](https://www.macrium.com/)
+* 💾 [**Backup e Imágenes**](#backup-e-im%C3%A1genes)
+* 💡 Software especializado en la creación de imágenes de disco y clonación de unidades de almacenamiento.
+
+### 5. [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
+* 🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
+* 💡 Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrión.
+
+### 6. [MiniTool Partition Wizard](https://www.partitionwizard.com/)
+* 🔧 [**Gestión de Discos**](#gesti%C3%B3n-de-discos)
+* 💡 Herramienta para la administración avanzada de discos duros y SSD.
+
+### 7. [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
+* 🔬 [**Pruebas y Reparación**](#pruebas-y-reparaci%C3%B3n)
+* 💡 Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado físico de los sectores.
+
+### 8. [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
+* 🔧 [**Gestión de Drivers**](#gesti%C3%B3n-de-discos)
+* 💡 Herramienta para la búsqueda e instalación de controladores de hardware, especialmente útil cuando no hay conexión a internet.
+
+### 9. [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
+* 🔬 [**Información de Hardware**](#informaci%C3%B3n-de-hardware)
+* 💡 Visualizador de la salud de unidades de almacenamiento que interpreta los datos técnicos del firmware del disco.
+
+### 10. [Everything](https://www.voidtools.com/downloads/)
+* 🧰 [**Utilidades Generales**](#-utilidades-generales)
+* 💡 Motor de búsqueda local que localiza archivos y carpetas por nombre de forma instantánea.
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 📍Indicadores de referencia
 |Icono|Significado|
 |-|-|
@@ -149,7 +197,7 @@
 | &nbsp; 📀| Indica que el software es un ***Live CD***.|
 | &nbsp; 💲| Indica que la característica importante del software es ***premium***.|
 | &nbsp; `>_`| Indica que el texto a continuación es un ***comando de consola***.|
-| &nbsp; ✍🏻| Indica que el texto a continuación es una ***nota***.|
+| &nbsp; ℹ️| Indica que el texto a continuación es una ***nota***.|
 | &nbsp; ‼️| Indica que el texto a continuación es una ***advertencia importante*** para el usuario.|
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
@@ -164,6 +212,7 @@
 * [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html) &nbsp; 📦
 * [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ‼️*Al bootear desde el pendrive se instala el sistema automáticamente*
 * [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/6d4827b93b165bfaa0f87acccd87d06fa8ac06ba/Scripts/AtlasDesktop)
+* [**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
@@ -184,7 +233,7 @@
 |[**Panda Free**](https://www.pandasecurity.com/es/homeusers/free-antivirus/)|Bajo |
 |[**360 Total Security**](https://www.360totalsecurity.com/es/)|Medio|
 
-* **Malicious Removal Tool** &nbsp; 🇼 ✍🏻*Complemento de Windows Defender* `>_` `mrt` 
+* **Malicious Removal Tool** &nbsp; 🇼 ℹ️*Complemento de Windows Defender* `>_` `mrt` 
 
 ### Anti Malware *(Bajo demanda)*
 
@@ -238,7 +287,7 @@
     * [**AutoLogon**](https://learn.microsoft.com/es-es/sysinternals/downloads/autologon) &nbsp; 📦 
 * [**Bulk Crap Uninstaller**](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases) &nbsp; 📦
 * [**Revo Uninstaller Free**](https://www.revouninstaller.com/products/revo-uninstaller-free/) &nbsp; 📦 
-* [**G-Helper**](https://github.com/seerge/g-helper/releases) &nbsp; 📦✍🏻*Laptops ASUS*
+* [**G-Helper**](https://github.com/seerge/g-helper/releases) &nbsp; 📦ℹ️*Laptops ASUS*
 * [**Fan Control**](https://getfancontrol.com/) &nbsp; 📦 
 * [**AtlasOS**](https://atlasos.net/) &nbsp; ‼️*Solo recomendado para uso personal*
 
@@ -257,7 +306,7 @@
 
 * [**Ninite**](https://ninite.com/) &nbsp; 🌐
 * [**Chocolatey**](https://chocolatey.org/)
-* [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; ✍🏻*WingetUI*
+* [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; ℹ️*WingetUI*
 * [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
 * [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx) &nbsp; 🌐
 
@@ -268,7 +317,7 @@
 ### Información de Hardware
 
 * [**CrystalDiskInfo**](https://crystalmark.info/en/download/#CrystalDiskInfo) &nbsp; 📦 
-* [**Clear Disk Info de Carifred**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
+* [**Clear Disk Info**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
 * [**USB Tree Viewer**](https://www.majorgeeks.com/files/details/usb_device_tree_viewer.html)
 * [**HWiNFO**](https://www.hwinfo.com/) &nbsp; 📦 
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) &nbsp; 📦 
@@ -322,7 +371,7 @@
 
 ### Creación de ISO
 
-* [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg) &nbsp; 🇼 ✍🏻 *Audit Mode* `>_` `C:\Windows\System32\Sysprep\sysprep.exe`
+* [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg) &nbsp; 🇼 ℹ️ *Audit Mode* `>_` `C:\Windows\System32\Sysprep\sysprep.exe`
 * [**WinToolkit**](https://m.majorgeeks.com/files/details/win_toolkit.html)
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
@@ -341,6 +390,7 @@
 * [**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; 📀
 * [**Hiren’s Boot**](https://www.hirensbootcd.org/) &nbsp; 📀
 * [**Sergei Strelec WinPE**](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/) &nbsp; 📀
+* [**Medicat USB**](https://medicatusb.com/#downloads) &nbsp; 📀
 * [**Linux Mint Cinnamon**](https://linuxmint.com/download.php) &nbsp; 📀
 
 ### Acceso Remoto
@@ -348,7 +398,7 @@
 * [**RustDesk**](https://github.com/rustdesk/rustdesk/releases/tag/1.4.5)
 * [**TeamViewer**](https://www.teamviewer.com/es/download/windows/) &nbsp; [📦](https://portableapps.com/apps/utilities/teamviewer_portable) 
 * [**AnyDesk**](https://anydesk.com/es)
-* [**Desk Flow**](https://github.com/deskflow/deskflow/releases) &nbsp; ✍🏻*El mismo mouse y teclado para dos PC*
+* [**Desk Flow**](https://github.com/deskflow/deskflow/releases) &nbsp; ℹ️*El mismo mouse y teclado para dos PC*
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
@@ -372,15 +422,15 @@
 
 ## 🧰 Utilidades Generales
 
-* [**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)✍🏻*Compresión*
-* [**CS 1.6**](https://down-cs.su/clean.php) &nbsp; 📦✍🏻*No puede faltar*
-* [**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦✍🏻*Búsqueda completa de archivos*
-* [**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) &nbsp; 📦✍🏻*Manager de memoria onboard*
-* [**Supermium**](https://github.com/win32ss/supermium/releases) &nbsp; 📦✍🏻*Buscador ultra ligero*
-* [**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter) &nbsp; 📦✍🏻*Lector de PDF*
-* [**WPS Office**](https://es.wps.com/download/) &nbsp; ✍🏻*Alternativa a Microsoft Office*
+* [**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)ℹ️*Compresión*
+* [**CS 1.6**](https://down-cs.su/clean.php) &nbsp; 📦ℹ️*No puede faltar*
+* [**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦ℹ️*Búsqueda completa de archivos*
+* [**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) &nbsp; 📦ℹ️*Manager de memoria onboard*
+* [**Supermium**](https://github.com/win32ss/supermium/releases) &nbsp; 📦ℹ️*Buscador ultra ligero*
+* [**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter) &nbsp; 📦ℹ️*Lector de PDF*
+* [**WPS Office**](https://es.wps.com/download/) &nbsp; ℹ️*Alternativa a Microsoft Office*
 * [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
-* [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)✍🏻*Desbloquear archivos*
+* [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)ℹ️*Desbloquear archivos*
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
@@ -434,12 +484,12 @@
 
 * **Precintos**
 * **Aire Comprimido**
-* **Pasta Térmica**  &nbsp; ✍🏻[***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5)
+* **Pasta Térmica**  &nbsp; ℹ️[***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5)
 * **Cables SATA**
 * **Adaptador MOLEX \> SATA**
 * **Fichas RJ45**
 * **Tornillos**
-* **Pila de Motherboard**  &nbsp; ✍🏻[***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v)
+* **Pila de Motherboard**  &nbsp; ℹ️[***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v)
 * **Alcohol Isopropílico** &nbsp; ‼️ **≥90º**
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
@@ -448,7 +498,7 @@
 
 ## 🚚Proveedores
 
-* [**Hard Gamers**](https://www.hardgamers.com.ar)  &nbsp; ✍🏻*Comparador de precios*
+* [**Hard Gamers**](https://www.hardgamers.com.ar)  &nbsp; ℹ️*Comparador de precios*
 * [**FullH4rd**](https://fullh4rd.com.ar)
 * [**Mexx**](https://www.venex.com.ar)
 * [**Venex**](https://www.venex.com.ar)
@@ -544,7 +594,7 @@
 > [!IMPORTANT] 
 > **Para leer estos cuadros se deben ver los pines del conector directamente**
 
-* **Conector ATX de 24 pines  ( 20 + 4 )**  &nbsp; ✍🏻 *( Orientación ▶ )*
+* **Conector ATX de 24 pines  ( 20 + 4 )**  &nbsp; ℹ️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color | Color | Pin | Tensión | 
 | - | - | - | - | - | - |
@@ -563,7 +613,7 @@
 | +12 V    | **11** | 🟡 | 🟥 | **23** | +5 V   |
 | +3.3 V   | **12** | 🟧 | ⬛ | **24** | COM    |
 
-* **Conector CPU ATX12V ( 4 + 4 )** &nbsp; ✍🏻 *( Orientación ▶ )*
+* **Conector CPU ATX12V ( 4 + 4 )** &nbsp; ℹ️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color | Color | Pin | Tensión |
 | - | - | - | - | - | - |
@@ -574,7 +624,7 @@
 | COM  | **3** | ⬛ | 🟡 | **7** | +12 V |
 | COM  | **4** | ⬛ | 🟡 | **8** | +12 V |
 
-* **Conector PCIe de 8 pines ( 6 + 2 )** &nbsp; ✍🏻 *( Orientación ▶ )*
+* **Conector PCIe de 8 pines ( 6 + 2 )** &nbsp; ℹ️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color | Color | Pin | Tensión |
 | - | - | - | - | - | - |
@@ -585,7 +635,7 @@
 ||
 |  COM  | **4** | ⬛ | ⬛ | **8** | COM |
 
-* **Conector SATA**  &nbsp; ✍🏻 *( Orientación 🇱 )*
+* **Conector SATA**  &nbsp; ℹ️ *( Orientación 🇱 )*
 
 | Tensión | Pin | Color |
 | - | - | - |
@@ -605,7 +655,7 @@
 | +3.3 V | **2**   | 🟧 |
 | +3.3 V | **1**   | 🟧 |
 
-* **Conector MOLEX** ✍🏻 *( Orientación ▶ )*
+* **Conector MOLEX** ℹ️ *( Orientación ▶ )*
 
 | Tensión | Pin | Color |
 | :--- | :---: | :---: |
@@ -636,9 +686,9 @@
 
 ## 👨‍🔧Servicios Técnicos
 
-* [**NSP Caballito**](https://nsp.com.ar/) &nbsp; ✍🏻*General*
-* [**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ✍🏻*Motherboards*
-* [**Grupo GB**](https://grupogb.com.ar/) &nbsp; ✍🏻*Celulares*
+* [**NSP Caballito**](https://nsp.com.ar/) &nbsp; ℹ️*General*
+* [**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ℹ️*Motherboards*
+* [**Grupo GB**](https://grupogb.com.ar/) &nbsp; ℹ️*Celulares*
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
