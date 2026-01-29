@@ -342,10 +342,10 @@
 
 | Pasta Térmica | Rendimiento Termico|
 | - | - |
-| [**Arctic MX-4**](https://listado.mercadolibre.com.ar/pasta-termica-mx4) | Alta temperatura |
-| [**Noctua**](https://listado.mercadolibre.com.ar/noctua) | Media / Alta temperatura |
-| [**Delta GPM 5**](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5) | Media temperatura |
-| [**Delta Siliconada**](https://listado.mercadolibre.com.ar/grasa-siliconada-delta) | Baja temperatura  (***Uso general***) |
+| [**Arctic MX-4**](https://listado.mercadolibre.com.ar/pasta-termica-mx4) | Alto |
+| [**Noctua**](https://listado.mercadolibre.com.ar/noctua) | Medio / Alto |
+| [**Delta GPM 5**](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5) | Medio (***Uso general***) |
+| [**Delta Siliconada**](https://listado.mercadolibre.com.ar/grasa-siliconada-delta) | Bajo |
 
 ## 🏠Requisitos Mínimos *(SOHO)*
 
