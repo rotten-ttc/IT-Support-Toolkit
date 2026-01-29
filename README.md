@@ -1,14 +1,15 @@
-
-# 🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC 🛠️
+<h1 align="center"> 🛠️ IT Support Toolkit 🛠️</h1>
 
 > **@rotten_ttc**  por todos lados
+
+<h1 align="center"> <img width="500" src="https://media.discordapp.net/attachments/1106297060745035837/1466332541244936265/CowardlyDog.png?ex=697c5c18&is=697b0a98&hm=ac9a729643df464b4e3e98d9448ab385cb9b054f4cce53d600c9ae37b53e5b4f&=&format=webp&quality=lossless" >
 
 ## 📑 Índice
 
 <ul>
   <li>
     <details open>
-      <summary><a href="#%EF%B8%8F-repositorio-de-herramientas-e-informaci%C3%B3n-orientado-al-mantenimiento-de-pc-%EF%B8%8F">🛠️ Repositorio de Herramientas e Información</a></summary>
+      <summary>🛠️ IT Support Toolkit 🛠️</a></summary>
       <ul>
         <li><a href="#indicadores-de-referencia">📍 Indicadores de referencia</a></li>
         <li>
@@ -136,6 +137,8 @@
     </details>
   </li>
 </ul>
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
  
 ## 📍Indicadores de referencia
 |Icono|Significado|
@@ -149,6 +152,8 @@
 | &nbsp; ✍🏻| Indica que el texto a continuación es una ***nota***.|
 | &nbsp; ‼️| Indica que el texto a continuación es una ***advertencia importante*** para el usuario.|
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 # 💻 Herramientas de Software
 
 ## ⚙️ Preparación de Sistema
@@ -160,6 +165,8 @@
 * [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ‼️*Al bootear desde el pendrive se instala el sistema automáticamente*
 * [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/6d4827b93b165bfaa0f87acccd87d06fa8ac06ba/Scripts/AtlasDesktop)
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 ## 🛡️ Seguridad
 
@@ -203,6 +210,8 @@
 * [**FileScan**](https://www.filescan.io/) &nbsp; 🌐
 * [**Tria.ge**](http://tria.ge) &nbsp; 🌐
 * [**Nomoreransom**](https://www.nomoreransom.org/) &nbsp; 🌐
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 ## 🔧 Instalación y Mantenimiento
 
@@ -250,6 +259,8 @@
 * [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
 * [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx) &nbsp; 🌐
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 🔬 Diagnóstico y Reparación
 
 ### Información de Hardware
@@ -289,6 +300,8 @@
 * [**Advance IP Scanner**](https://www.advanced-ip-scanner.com/es/download/) &nbsp; 📦 
 * [**DNS Speed Test**](https://dnsspeedtest.online/) &nbsp; 🌐
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 💾 Respaldo y Recuperación
 
 ### Backup e Imágenes
@@ -309,6 +322,8 @@
 
 * [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg) &nbsp; 🇼 ✍🏻 *Audit Mode* `>_` `C:\Windows\System32\Sysprep\sysprep.exe`
 * [**WinToolkit**](https://m.majorgeeks.com/files/details/win_toolkit.html)
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 ## 🆘 Herramientas de Soporte y Pendrive
 
@@ -333,6 +348,8 @@
 * [**AnyDesk**](https://anydesk.com/es)
 * [**Desk Flow**](https://github.com/deskflow/deskflow/releases) &nbsp; ✍🏻*El mismo mouse y teclado para dos PC*
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 🏴‍☠️ Piratería
 
 ‼️ **Todo el contenido de esta categoría está verificado y validado por una comunidad, sin embargo debe proceder con responsabilidad y criterio**
@@ -348,6 +365,8 @@
 
 * [**Soft 98**](https://soft98.ir) &nbsp; 🌐
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 🧰 Utilidades Generales
 
 * [**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)✍🏻*Compresión*
@@ -359,6 +378,8 @@
 * [**WPS Office**](https://es.wps.com/download/) &nbsp; ✍🏻*Alternativa a Microsoft Office*
 * [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
 * [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)✍🏻*Desbloquear archivos*
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 # 🔩 Herramientas de Hardware
 
@@ -372,6 +393,8 @@
 * [**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
 * **Kit de Precisión (Tipo [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit]))**
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 🔌 Adaptadores
 
 |From|To|
@@ -380,11 +403,15 @@
 |**VGA**|**HDMI**|
 |**MOLEX**|**SATA**|
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 🧹 Limpieza
 
 * **Cepillo de Dientes**
 * **Paño de Microfibra**
 * **Goma de Borrar**
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 ##  🧪Banco de Pruebas
 
@@ -398,6 +425,8 @@
 * **Clip de Oficina**
 * **Estuche para Gabinete**
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ##  ♻️Consumibles
 
 * **Precintos**
@@ -409,6 +438,8 @@
 * **Tornillos**
 * **Pila de Motherboard**  &nbsp; ✍🏻[***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v)
 * **Alcohol Isopropílico** &nbsp; ‼️ **≥90º**
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 # 💡 Guías y Sugerencias
 
@@ -422,6 +453,8 @@
 * [**CompraGamer**](https://compragamer.com)
 * [**MalditoHard**](https://www.malditohard.com.ar)
 * [**Integrados Argentinos**](https://www.integradosargentinos.com)
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 ## 🏷️Marcas
 
@@ -483,6 +516,8 @@
 | [**Noctua**](https://listado.mercadolibre.com.ar/noctua) | Medio / Alto |
 | [**Delta GPM 5**](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5) | Medio (***Uso general***) |
 | [**Delta Siliconada**](https://listado.mercadolibre.com.ar/grasa-siliconada-delta) | Bajo |
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 ## 🏠Requisitos Mínimos *(SOHO)*
 
@@ -572,6 +607,8 @@
 | COM    | **3**  | ⬛ |
 | +5 V   | **4**  | 🟥 |
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 🔤Nomenclaturas
 
 ### CPU
@@ -588,11 +625,15 @@
 * **América Latina:** *@ > Q*
 * **Estados Unidos:** *No hay Ñ*
 
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+
 ## 👨‍🔧Servicios Técnicos
 
 * [**NSP Caballito**](https://nsp.com.ar/) &nbsp; ✍🏻*General*
 * [**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ✍🏻*Motherboards*
 * [**Grupo GB**](https://grupogb.com.ar/) &nbsp; ✍🏻*Celulares*
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
 ## 📖Bibliografía
 
@@ -605,3 +646,5 @@
 * [**Genbeta**](https://www.genbeta.com/)
 * [**Muy Computer**](https://www.muycomputer.com/)
 * [**Microsofters**](https://microsofters.com/)
+
+<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
