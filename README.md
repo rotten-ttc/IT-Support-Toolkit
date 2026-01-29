@@ -1,20 +1,80 @@
 
-
-## 🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC 🛠️
+# 🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC 🛠️
 
 > **@rotten_ttc**  por todos lados
 
+
+## 📑 Índice
+
+-   [🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC](#%EF%B8%8F-repositorio-de-herramientas-e-informaci%C3%B3n-orientado-al-mantenimiento-de-pc-%EF%B8%8F)
+-   [📍 Indicadores de referencia](#indicadores-de-referencia)    
+-   [💻 Herramientas de Software](#-herramientas-de-software)    
+    -   [⚙️ Preparación de Sistema](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)        
+    -   [🛡️ Seguridad](#%EF%B8%8F-seguridad)        
+        -   [Antivirus](#antivirus)            
+        -   [Anti Malware (Bajo demanda)](#anti-malware-bajo-demanda)            
+        -   [Firewall / Red](#firewallred)            
+        -   [Navegación](#navegaci%C3%B3n)            
+        -   [Análisis Online](#an%C3%A1lisis-online)            
+    -   [🔧 Instalación y Mantenimiento](#-instalaci%C3%B3n-y-mantenimiento)        
+        -   [Limpieza](#limpieza)            
+        -   [Gestión de Discos](#gesti%C3%B3n-de-discos)            
+        -   [Gestión de Sistema](#gesti%C3%B3n-de-sistema)            
+        -   [Gestión de Drivers](#gesti%C3%B3n-de-drivers)            
+        -   [Instalación / Actualización](#instalaci%C3%B3nactualizaci%C3%B3n)            
+    -   [🔬 Diagnóstico y Reparación](#-diagn%C3%B3stico-y-reparaci%C3%B3n)        
+        -   [Información de Hardware](#informaci%C3%B3n-de-hardware)            
+        -   [Diagnóstico](#diagn%C3%B3stico)            
+        -   [Pruebas y Reparación](#pruebas-y-reparaci%C3%B3n)            
+        -   [Redes](#redes)            
+-   [💾 Respaldo y Recuperación](#-respaldo-y-recuperaci%C3%B3n)    
+    -   [Backup e Imágenes](#backup-e-im%C3%A1genes)        
+    -   [Restauración de Sistema](#restauraci%C3%B3n-de-sistema)        
+    -   [Creación de ISO](#creaci%C3%B3n-de-iso)        
+-   [🆘 Herramientas de Soporte y Pendrive](#-herramientas-de-soporte-y-pendrive)    
+    -   [Creación de USBs](#creaci%C3%B3n-de-usbs)        
+    -   [Sistemas Portables](#sistemas-portables)        
+    -   [Acceso Remoto](#acceso-remoto)        
+-   [🏴‍☠️ Piratería](#%E2%80%8D%EF%B8%8F-pirater%C3%ADa)    
+    -   [Repositorios](#repositorios)        
+    -   [Software](#software)        
+-   [🧰 Utilidades Generales](#-utilidades-generales)    
+-   [🔩 Herramientas de Hardware](#-herramientas-de-hardware)    
+    -   [🛠️ Herramientas de Mano y Medición](#%EF%B8%8Fherramientas-de-mano-y-medici%C3%B3n)        
+    -   [🔌 Adaptadores](#-adaptadores)        
+    -   [🧹 Limpieza](#-limpieza)        
+    -   [🧪 Banco de Pruebas](#banco-de-pruebas)        
+    -   [♻️ Consumibles](#%EF%B8%8Fconsumibles)        
+-   [💡 Guías y Sugerencias](#-gu%C3%ADas-y-sugerencias)    
+    -   [🚚 Proveedores](#proveedores)        
+    -   [🏷️ Marcas](#%EF%B8%8Fmarcas)        
+        -   [Memoria RAM](#memoria-ram)            
+        -   [PSU](#psu)            
+        -   [Motherboards](#motherboards)            
+        -   [HDD](#hdd)            
+        -   [SSD](#ssd)            
+        -   [Placa Gráfica](#placa-gr%C3%A1fica)            
+        -   [Pasta Térmica](#pasta-t%C3%A9rmica)            
+-   [🏠 Requisitos Mínimos (SOHO)](#requisitos-m%C3%ADnimos-soho)    
+-   [⚡ Medición de Fuente](#-medici%C3%B3n-de-fuente)    
+-   [🔤 Nomenclaturas](#nomenclaturas)    
+    -   [CPU](#cpu)        
+    -   [GPU](#gpu)        
+    -   [Distribución de Teclados](#distribuci%C3%B3n-de-teclados)       
+-   [👨‍🔧 Servicios Técnicos](#%E2%80%8Dservicios-t%C3%A9cnicos)   
+-   [📖 Bibliografía](#bibliograf%C3%ADa)
+ 
 ## 📍Indicadores de referencia
 |Icono|Significado|
 |-|-|
-| &nbsp; 📦| Indica que el software tiene una ***versión portable*** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
+| &nbsp; 📦| Indica que el software tiene una ***versión portable*** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el icono aparecerá, pero no redirigirá a ningún sitio.|
 | &nbsp; 🇼| Indica que el software es una ***herramienta nativa de Windows***.|
 | &nbsp; 🌐| Indica que el software es una ***herramienta web***.|
 | &nbsp; 📀| Indica que el software es un ***Live CD***.|
-| &nbsp; 💲| Indica que la caracteristica importante del software es ***premium***.|
-| &nbsp; `>_`| Indica que el texto a continuacion es un ***comando de consola***.|
-| &nbsp; ✍🏻| Indica que el texto a continuacion es una ***nota***.|
-| &nbsp; ‼️| Indica que el texto a continuacion es una ***advertencia importante*** para el usuario.|
+| &nbsp; 💲| Indica que la característica importante del software es ***premium***.|
+| &nbsp; `>_`| Indica que el texto a continuación es un ***comando de consola***.|
+| &nbsp; ✍🏻| Indica que el texto a continuación es una ***nota***.|
+| &nbsp; ‼️| Indica que el texto a continuación es una ***advertencia importante*** para el usuario.|
 
 # 💻 Herramientas de Software
 
@@ -234,7 +294,7 @@
 * **Destornilladores**
 * **Alicate**
 * **Crimpeadora**
-* **Multimetro**
+* **Multímetro**
 * **Linterna**
 * [**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
 * **Kit de Precisión (Tipo [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit]))**
@@ -258,7 +318,7 @@
 * **Zapatilla / Alargue**
 * **Cables SATA**
 * **Cable de Fuente**
-* **Fuente Generica de 500W**
+* **Fuente Genérica de 500W**
 * **Mouse**
 * **Teclado**
 * **Buzzer**
@@ -269,7 +329,7 @@
 
 * **Precintos**
 * **Aire Comprimido**
-* **Pasta Termica**  &nbsp; ✍🏻[***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5)
+* **Pasta Térmica**  &nbsp; ✍🏻[***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5)
 * **Cables SATA**
 * **Adaptador MOLEX \> SATA**
 * **Fichas RJ45**
@@ -344,7 +404,7 @@
 
 ### Pasta Térmica
 
-| Pasta Térmica | Rendimiento Termico|
+| Pasta Térmica | Rendimiento Térmico|
 | - | - |
 | [**Arctic MX-4**](https://listado.mercadolibre.com.ar/pasta-termica-mx4) | Alto |
 | [**Noctua**](https://listado.mercadolibre.com.ar/noctua) | Medio / Alto |
