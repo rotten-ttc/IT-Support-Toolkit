@@ -171,7 +171,9 @@
 ## 🛡️ Seguridad
 
 ### Antivirus
-✍🏻*Ordenados de mejor a peor*
+
+> [!NOTE]
+> **Ordenados de mejor a peor**
 
 |Antivirus|Consumo|
 |-|-|
@@ -352,7 +354,8 @@
 
 ## 🏴‍☠️ Piratería
 
-‼️ **Todo el contenido de esta categoría está verificado y validado por una comunidad, sin embargo debe proceder con responsabilidad y criterio**
+> [!IMPORTANT]
+> **Todo el contenido de esta categoría está verificado y validado por una comunidad, sin embargo debe proceder con responsabilidad y criterio**
 
 ### Repositorios
 
@@ -458,7 +461,8 @@
 
 ## 🏷️Marcas
 
-✍🏻*Ordenadas de mejor a peor*
+> [!NOTE]
+> *Ordenadas de mejor a peor*
 
 ### Memoria RAM
 
@@ -532,10 +536,13 @@
 
 2. **Colocar la punta negra del tester en un cable negro** (**COM**) **y medir con la punta roja en cada pin.**
 
-✍🏻*Cálculo para fuentes genéricas: Watts reales = Watts totales − 67% (Aproximadamente)*
+> [!NOTE]
+> **Cálculo para fuentes genéricas: Watts reales = Watts totales − 67% (Aproximadamente)**
 
 ### Diagramas de pines de fuente
-‼️Para leer estos cuadros se deben ver los pines del conector directamente
+
+> [!IMPORTANT] 
+> **Para leer estos cuadros se deben ver los pines del conector directamente**
 
 * **Conector ATX de 24 pines  ( 20 + 4 )**  &nbsp; ✍🏻 *( Orientación ▶ )*
 
