@@ -141,48 +141,48 @@
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
  
-# 🏆 Top 10 IT Support Toolkit
+# 🐐 Top 10 IT Support Toolkit
 
 > [!NOTE]
-> **Selección de las mejores herramientas de este repositorio.**
+> **Selección de herramientas para diagnóstico, reparación y mantenimiento técnico de equipos informáticos.**
 
-### 1. [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
+### 🐐[Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
 * ⚙️ [**Preparación de Sistema**](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)
 * 💡 Combinación de una versión ligera y estable de Windows (LTSC) con un script de automatización para post-instalación.
 
-### 2. [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
+### 🐐 [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
 * 🆘 [**Sistemas Portables**](#sistemas-portables)
 * 💡 Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. Útil para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
 
-### 3. [Ventoy](https://sourceforge.net/projects/ventoy/)
+### 🐐 [Ventoy](https://sourceforge.net/projects/ventoy/)
 * 🆘 [**Creación de USBs**](#creaci%C3%B3n-de-usbs)
 * 💡 Permite crear una unidad de arranque múltiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
 
-### 4. [Macrium Reflect](https://www.macrium.com/)
+### 🐐 [Macrium Reflect](https://www.macrium.com/)
 * 💾 [**Backup e Imágenes**](#backup-e-im%C3%A1genes)
 * 💡 Software especializado en la creación de imágenes de disco y clonación de unidades de almacenamiento.
 
-### 5. [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
+### 🐐 [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
 * 🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
 * 💡 Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrión.
 
-### 6. [MiniTool Partition Wizard](https://www.partitionwizard.com/)
+### 🐐 [MiniTool Partition Wizard](https://www.partitionwizard.com/)
 * 🔧 [**Gestión de Discos**](#gesti%C3%B3n-de-discos)
 * 💡 Herramienta para la administración avanzada de discos duros y SSD.
 
-### 7. [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
+### 🐐 [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
 * 🔬 [**Pruebas y Reparación**](#pruebas-y-reparaci%C3%B3n)
 * 💡 Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado físico de los sectores.
 
-### 8. [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
+### 🐐 [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
 * 🔧 [**Gestión de Drivers**](#gesti%C3%B3n-de-discos)
 * 💡 Herramienta para la búsqueda e instalación de controladores de hardware, especialmente útil cuando no hay conexión a internet.
 
-### 9. [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
+### 🐐 [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
 * 🔬 [**Información de Hardware**](#informaci%C3%B3n-de-hardware)
 * 💡 Visualizador de la salud de unidades de almacenamiento que interpreta los datos técnicos del firmware del disco.
 
-### 10. [Everything](https://www.voidtools.com/downloads/)
+### 🐐 [Everything](https://www.voidtools.com/downloads/)
 * 🧰 [**Utilidades Generales**](#-utilidades-generales)
 * 💡 Motor de búsqueda local que localiza archivos y carpetas por nombre de forma instantánea.
 
@@ -191,14 +191,15 @@
 ## 📍Indicadores de referencia
 |Icono|Significado|
 |-|-|
-| &nbsp; 📦| Indica que el software tiene una ***versión portable*** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el icono aparecerá, pero no redirigirá a ningún sitio.|
-| &nbsp; 🇼| Indica que el software es una ***herramienta nativa de Windows***.|
-| &nbsp; 🌐| Indica que el software es una ***herramienta web***.|
-| &nbsp; 📀| Indica que el software es un ***Live CD***.|
-| &nbsp; 💲| Indica que la característica importante del software es ***premium***.|
-| &nbsp; `>_`| Indica que el texto a continuación es un ***comando de consola***.|
-| &nbsp; ℹ️| Indica que el texto a continuación es una ***nota***.|
-| &nbsp; ‼️| Indica que el texto a continuación es una ***advertencia importante*** para el usuario.|
+| &nbsp; 🐐| Indica que la **herramienta** es particularmente destacado en alguna característica.|
+| &nbsp; 📦| Indica que el **software** tiene una ***versión portable*** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el icono aparecerá, pero no redirigirá a ningún sitio.|
+| &nbsp; 🇼| Indica que el **software** es una ***herramienta nativa de Windows***.|
+| &nbsp; 🌐| Indica que el **software** es una ***herramienta web***.|
+| &nbsp; 📀| Indica que el **software** es un ***Live CD***.|
+| &nbsp; 💲| Indica que la característica importante del **software** es ***premium***.|
+| &nbsp; `>_`| Indica que el **texto** a continuación es un ***comando de consola***.|
+| &nbsp; ℹ️| Indica que el **texto** a continuación es una ***nota***.|
+| &nbsp; ‼️| Indica que el **texto** a continuación es una ***advertencia importante*** para el usuario.|
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
@@ -206,13 +207,13 @@
 
 ## ⚙️ Preparación de Sistema
 
-* [**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links)
-* [**CTT Utility**](https://christitus.com/windows-tool/) &nbsp; `>_` `irm christitus.com/win | iex`
-* [**Massgrave**](https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file) &nbsp; `>_` `irm https://get.activated.win | iex`
+* 🐐[**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links)
+* 🐐[**CTT Utility**](https://christitus.com/windows-tool/) &nbsp; `>_` `irm christitus.com/win | iex`
+* 🐐[**Massgrave**](https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file) &nbsp; `>_` `irm https://get.activated.win | iex`
 * [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html) &nbsp; 📦
 * [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ‼️*Al bootear desde el pendrive se instala el sistema automáticamente*
 * [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/6d4827b93b165bfaa0f87acccd87d06fa8ac06ba/Scripts/AtlasDesktop)
-* [**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
+* 🐐[**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
@@ -228,7 +229,7 @@
 |-|-|
 |[**Kaspersky**](https://www.kaspersky.com/) &nbsp; 💲|Medio|
 |[**Norton**](https://ar.norton.com/) &nbsp; 💲|Alto |
-|**Windows Defender** &nbsp; 🇼 `>_` `start windowsdefender:`|Alto |
+|🐐**Windows Defender** &nbsp; 🇼 `>_` `start windowsdefender:`|Alto |
 |[**Avira**](https://www.avira.com/es?srsltid=AfmBOoqn3e2xm4DsIbetWA-DvKvF2VZ_vanKTy06ihXMUMVWqhTlpPug)|Bajo |
 |[**Panda Free**](https://www.pandasecurity.com/es/homeusers/free-antivirus/)|Bajo |
 |[**360 Total Security**](https://www.360totalsecurity.com/es/)|Medio|
@@ -240,7 +241,7 @@
 * [**SpyBot Search & Destroy**](https://www.safer-networking.org/compare-spybot-editions/)
 * [**SuperAntiSpyware**](https://www.superantispyware.com/download?productid=SUPERANTISPYWAREFREE)
 * [**Malwarebytes**](https://www.malwarebytes.com/es/mwb-download)
-* [**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; 📀
+* 🐐[**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; 📀
 
 ### Firewall/Red
 
@@ -252,7 +253,7 @@
 ### Navegación
 
 * [**Ghostery**](https://www.ghostery.com/)
-* [**uBlock Origin**](https://ublockorigin.com/es)
+* 🐐[**uBlock Origin**](https://ublockorigin.com/es)
 * [**AdBlock Plus**](https://adblockplus.org/es/)
 
 ### Análisis Online
@@ -271,18 +272,18 @@
 * [**CCleaner**](https://www.ccleaner.com/es-es/ccleaner?srsltid=AfmBOorx6n97qe7dRDUM1nJrkVyptmleIL35L_S3BiyUGdJhll8KxQUO) &nbsp; 📦 
 * [**Argente Registry Cleaner**](https://argenteutilities.com/es/downloads) &nbsp; 📦 
 * [**Glary Utilities**](https://www.glarysoft.com/downloads/?p=gu-page) &nbsp; 📦
-* [**WizTree**](https://diskanalyzer.com/) &nbsp; 📦 
+* 🐐[**WizTree**](https://diskanalyzer.com/) &nbsp; 📦 
 
 ### Gestión de Discos
 
 * [**Defraggler**](https://www.ccleaner.com/defraggler?srsltid=AfmBOoosx3YFNtSl-8Cgg5tCMOuI9APEIhvQWho5JeFEvrNV8Tr19nLr) &nbsp; [📦](https://portableapps.com/apps/utilities/dfgportable) 
 * [**Win Setup USB**](https://winsetupfromusb.org/) &nbsp; 📦 
-* [**MiniTool Partition Wizard**](https://www.partitionwizard.com/)
+* 🐐[**MiniTool Partition Wizard**](https://www.partitionwizard.com/)
 
 ### Gestión de Sistema
 
 * [**Sysinternals Suite**](https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite) &nbsp; 📦 
-    * [**Process Explorer**](https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer) &nbsp; 📦 
+    * 🐐[**Process Explorer**](https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer) &nbsp; 📦 
     * [**Autoruns**](https://learn.microsoft.com/es-es/sysinternals/downloads/autoruns) &nbsp; 📦 
     * [**AutoLogon**](https://learn.microsoft.com/es-es/sysinternals/downloads/autologon) &nbsp; 📦 
 * [**Bulk Crap Uninstaller**](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases) &nbsp; 📦
@@ -295,7 +296,7 @@
 
 * [**DDU**](https://www.guru3d.com/download/display-driver-uninstaller-download/) &nbsp; 📦 
 * [**DriverStoreExplorer**](https://github.com/lostindark/DriverStoreExplorer) &nbsp; 📦 
-* [**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
+* 🐐[**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
 * [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html) &nbsp; 📦 
 * [**NVClean Install**](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) &nbsp; 📦 
 * [**AMD Auto Detect Drivers**](https://www.amd.com/en/support/download/drivers.html)
@@ -304,7 +305,7 @@
 
 ### Instalación/Actualización
 
-* [**Ninite**](https://ninite.com/) &nbsp; 🌐
+* 🐐[**Ninite**](https://ninite.com/) &nbsp; 🌐
 * [**Chocolatey**](https://chocolatey.org/)
 * [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; ℹ️*WingetUI*
 * [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
@@ -317,9 +318,9 @@
 ### Información de Hardware
 
 * [**CrystalDiskInfo**](https://crystalmark.info/en/download/#CrystalDiskInfo) &nbsp; 📦 
-* [**Clear Disk Info**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
+* 🐐[**Clear Disk Info**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
 * [**USB Tree Viewer**](https://www.majorgeeks.com/files/details/usb_device_tree_viewer.html)
-* [**HWiNFO**](https://www.hwinfo.com/) &nbsp; 📦 
+* 🐐[**HWiNFO**](https://www.hwinfo.com/) &nbsp; 📦 
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) &nbsp; 📦 
 * [**OCCT**](https://www.ocbase.com/download) &nbsp; 📦 
 * [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html) &nbsp; 📦 
@@ -327,7 +328,7 @@
 
 ### Diagnóstico
 
-* [**Lock Hunter**](https://lockhunter.com/download.htm)
+* 🐐[**Lock Hunter**](https://lockhunter.com/download.htm)
 * [**BlueScreenView**](https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks) &nbsp; 📦
 * [**Resplendence Suite**](https://www.resplendence.com/downloads)
     * [**WhoCrashed**](https://www.resplendence.com/downloads)
@@ -343,7 +344,7 @@
     * [**Performance Test**](https://www.passmark.com/products/performancetest/download.php) &nbsp; [📦](https://www.passmark.com/support/performancetest_faq/portable-usb.php) 
     * [**MemTest86**](https://www.memtest86.com/download.htm) &nbsp; 📀
 * [**PowerMax**](https://www.cpuid.com/softwares/powermax.html) &nbsp; [📦](https://www.cpuid.com/downloads/powermax/powermax_1.00.zip)
-* [**Verónica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; 📦 
+* 🐐[**Verónica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; 📦 
 * [**SpinRite**](https://www.grc.com/sr/spinrite.htm) &nbsp; 💲📀
 
 ### Redes
@@ -358,14 +359,14 @@
 ### Backup e Imágenes
 
 * [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html) &nbsp; 📦 
-* [**Registry Backup Tool**](https://www.majorgeeks.com/files/details/tweaking_com_registry_backup_portable.html) &nbsp; 📦 
-* [**Macrium Reflect**](https://www.macrium.com/)
+* 🐐[**Registry Backup Tool**](https://www.majorgeeks.com/files/details/tweaking_com_registry_backup_portable.html) &nbsp; 📦 
+* 🐐[**Macrium Reflect**](https://www.macrium.com/)
 * [**Cobian Backup 11 Gravity**](https://www.cobiansoft.com/)
 * [**Clonzilla**](https://clonezilla.org/downloads.php)
 
 ### Restauración de Sistema
 
-* [**Recuva**](https://www.ccleaner.com/recuva?srsltid=AfmBOorylJ-cMN2L6YcFI6pt4Yfyg_8pC9sfMnDB0h4ra8NSacO8qeec) &nbsp; [📦](https://portableapps.com/apps/utilities/rcvportable)
+* 🐐[**Recuva**](https://www.ccleaner.com/recuva?srsltid=AfmBOorylJ-cMN2L6YcFI6pt4Yfyg_8pC9sfMnDB0h4ra8NSacO8qeec) &nbsp; [📦](https://portableapps.com/apps/utilities/rcvportable)
 * [**Rollback RX Pro**](https://horizondatasys.com/rollback-rx-time-machine/rollback-rx-professional/) &nbsp; 💲
 * [**Deep Freeze**](https://www.faronics.com/es/products/deep-freeze) &nbsp; 💲
 
@@ -382,20 +383,20 @@
 
 * [**Rufus**](https://rufus.ie/es/) &nbsp; 📦 
 * [**MobaLiveCD**](https://www.mobatek.net/labs.html) &nbsp; 📦 
-* [**Ventoy**](https://sourceforge.net/projects/ventoy/) &nbsp; 📦 
-* [**PortableApps.com**](http://portableapps.com/download) &nbsp; 📦 
+* 🐐[**Ventoy**](https://sourceforge.net/projects/ventoy/) &nbsp; 📦 
+* 🐐[**PortableApps.com**](http://portableapps.com/download) &nbsp; 📦 
 
 ### Sistemas Portables
 
-* [**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; 📀
+* 🐐[**Kaspersky Rescue Disk**](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; 📀
 * [**Hiren’s Boot**](https://www.hirensbootcd.org/) &nbsp; 📀
-* [**Sergei Strelec WinPE**](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/) &nbsp; 📀
+* 🐐[**Sergei Strelec WinPE**](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/) &nbsp; 📀
 * [**Medicat USB**](https://medicatusb.com/#downloads) &nbsp; 📀
 * [**Linux Mint Cinnamon**](https://linuxmint.com/download.php) &nbsp; 📀
 
 ### Acceso Remoto
 
-* [**RustDesk**](https://github.com/rustdesk/rustdesk/releases/tag/1.4.5)
+* 🐐[**RustDesk**](https://github.com/rustdesk/rustdesk/releases/tag/1.4.5)
 * [**TeamViewer**](https://www.teamviewer.com/es/download/windows/) &nbsp; [📦](https://portableapps.com/apps/utilities/teamviewer_portable) 
 * [**AnyDesk**](https://anydesk.com/es)
 * [**Desk Flow**](https://github.com/deskflow/deskflow/releases) &nbsp; ℹ️*El mismo mouse y teclado para dos PC*
@@ -409,7 +410,7 @@
 
 ### Repositorios
 
-* [**r/Piracy Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/) &nbsp; 🌐
+* 🐐[**r/Piracy Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread/) &nbsp; 🌐
     * [**Software**](https://www.reddit.com/r/Piracy/wiki/megathread/software/) &nbsp; 🌐
     * [**Tools**](https://www.reddit.com/r/Piracy/wiki/megathread/tools/) &nbsp; 🌐
 * [**FMHY**](https://fmhy.net/) &nbsp; 🌐
@@ -422,9 +423,9 @@
 
 ## 🧰 Utilidades Generales
 
-* [**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)ℹ️*Compresión*
+* 🐐[**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)ℹ️*Compresión*
 * [**CS 1.6**](https://down-cs.su/clean.php) &nbsp; 📦ℹ️*No puede faltar*
-* [**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦ℹ️*Búsqueda completa de archivos*
+* 🐐[**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦ℹ️*Búsqueda completa de archivos*
 * [**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) &nbsp; 📦ℹ️*Manager de memoria onboard*
 * [**Supermium**](https://github.com/win32ss/supermium/releases) &nbsp; 📦ℹ️*Buscador ultra ligero*
 * [**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter) &nbsp; 📦ℹ️*Lector de PDF*
@@ -443,7 +444,7 @@
 * **Crimpeadora**
 * **Multímetro**
 * **Linterna**
-* [**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
+* 🐐[**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
 * **Kit de Precisión (Tipo [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit]))**
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
@@ -498,7 +499,7 @@
 
 ## 🚚Proveedores
 
-* [**Hard Gamers**](https://www.hardgamers.com.ar)  &nbsp; ℹ️*Comparador de precios*
+* 🐐[**Hard Gamers**](https://www.hardgamers.com.ar)
 * [**FullH4rd**](https://fullh4rd.com.ar)
 * [**Mexx**](https://www.venex.com.ar)
 * [**Venex**](https://www.venex.com.ar)
@@ -687,7 +688,7 @@
 ## 👨‍🔧Servicios Técnicos
 
 * [**NSP Caballito**](https://nsp.com.ar/) &nbsp; ℹ️*General*
-* [**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ℹ️*Motherboards*
+* 🐐[**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ℹ️*Motherboards*
 * [**Grupo GB**](https://grupogb.com.ar/) &nbsp; ℹ️*Celulares*
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
