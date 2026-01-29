@@ -146,45 +146,55 @@
 > [!NOTE]
 > **Selección de herramientas para diagnóstico, reparación y mantenimiento técnico de equipos informáticos.**
 
-### 🐐[Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
-* ⚙️ [**Preparación de Sistema**](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)
-* 💡 Combinación de una versión ligera y estable de Windows (LTSC) con un script de automatización para post-instalación.
+### [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
+Combinación de una versión ligera y estable de Windows (LTSC) con un script de automatización para post-instalación.
 
-### 🐐 [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
-* 🆘 [**Sistemas Portables**](#sistemas-portables)
-* 💡 Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. Útil para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
+<sub>⚙️ [**Preparación de Sistema**](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)
 
-### 🐐 [Ventoy](https://sourceforge.net/projects/ventoy/)
-* 🆘 [**Creación de USBs**](#creaci%C3%B3n-de-usbs)
-* 💡 Permite crear una unidad de arranque múltiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
+### [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
+* Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. Útil para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
 
-### 🐐 [Macrium Reflect](https://www.macrium.com/)
-* 💾 [**Backup e Imágenes**](#backup-e-im%C3%A1genes)
-* 💡 Software especializado en la creación de imágenes de disco y clonación de unidades de almacenamiento.
+<sub>🆘 [**Sistemas Portables**](#sistemas-portables)
 
-### 🐐 [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
-* 🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
-* 💡 Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrión.
+### [Ventoy](https://sourceforge.net/projects/ventoy/)
+* Permite crear una unidad de arranque múltiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
 
-### 🐐 [MiniTool Partition Wizard](https://www.partitionwizard.com/)
-* 🔧 [**Gestión de Discos**](#gesti%C3%B3n-de-discos)
-* 💡 Herramienta para la administración avanzada de discos duros y SSD.
+<sub>🆘 [**Creación de USBs**](#creaci%C3%B3n-de-usbs)
 
-### 🐐 [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
-* 🔬 [**Pruebas y Reparación**](#pruebas-y-reparaci%C3%B3n)
-* 💡 Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado físico de los sectores.
+### [Macrium Reflect](https://www.macrium.com/)
+* Software especializado en la creación de imágenes de disco y clonación de unidades de almacenamiento.
 
-### 🐐 [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
-* 🔧 [**Gestión de Drivers**](#gesti%C3%B3n-de-discos)
-* 💡 Herramienta para la búsqueda e instalación de controladores de hardware, especialmente útil cuando no hay conexión a internet.
+<sub>💾 [**Backup e Imágenes**](#backup-e-im%C3%A1genes)
 
-### 🐐 [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
-* 🔬 [**Información de Hardware**](#informaci%C3%B3n-de-hardware)
-* 💡 Visualizador de la salud de unidades de almacenamiento que interpreta los datos técnicos del firmware del disco.
+### [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
+* Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrión.
 
-### 🐐 [Everything](https://www.voidtools.com/downloads/)
-* 🧰 [**Utilidades Generales**](#-utilidades-generales)
-* 💡 Motor de búsqueda local que localiza archivos y carpetas por nombre de forma instantánea.
+<sub>🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
+
+### [MiniTool Partition Wizard](https://www.partitionwizard.com/)
+* Herramienta para la administración avanzada de discos duros y SSD.
+
+<sub> 🔧 [**Gestión de Discos**](#gesti%C3%B3n-de-discos)
+
+### [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
+* Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado físico de los sectores.
+
+<sub>🔬 [**Pruebas y Reparación**](#pruebas-y-reparaci%C3%B3n)
+
+### [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
+* Herramienta para la búsqueda e instalación de controladores de hardware, especialmente útil cuando no hay conexión a internet.
+
+<sub>🔧 [**Gestión de Drivers**](#gesti%C3%B3n-de-discos)
+
+### [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
+* Visualizador de la salud de unidades de almacenamiento que interpreta los datos técnicos del firmware del disco.
+
+<sub>🔬 [**Información de Hardware**](#informaci%C3%B3n-de-hardware)
+
+### [Everything](https://www.voidtools.com/downloads/)
+* Motor de búsqueda local que localiza archivos y carpetas por nombre de forma instantánea.
+
+<sub>🧰 [**Utilidades Generales**](#-utilidades-generales)
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
@@ -495,7 +505,7 @@
 
 <sub>[ 📑 Índice](#-%C3%ADndice)</sub>
 
-# 💡 Guías y Sugerencias
+# Guías y Sugerencias
 
 ## 🚚Proveedores
 
