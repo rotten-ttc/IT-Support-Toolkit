@@ -271,7 +271,7 @@
 * **Fichas RJ45**
 * **Tornillos**
 * **Pila de Motherboard**  &nbsp; 📝[***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v)
-* **Alcohol Isopropílico** &nbsp; ‼️ **\>= 95º**
+* **Alcohol Isopropílico** &nbsp; ‼️ **≥90º**
 
 # 💡 Guías y Sugerencias
 
