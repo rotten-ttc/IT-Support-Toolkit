@@ -5,64 +5,131 @@
 
 
 ## 📑 Índice
-
--   [🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC](#%EF%B8%8F-repositorio-de-herramientas-e-informaci%C3%B3n-orientado-al-mantenimiento-de-pc-%EF%B8%8F)
--   [📍 Indicadores de referencia](#indicadores-de-referencia)    
--   [💻 Herramientas de Software](#-herramientas-de-software)    
-    -   [⚙️ Preparación de Sistema](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)        
-    -   [🛡️ Seguridad](#%EF%B8%8F-seguridad)        
-        -   [Antivirus](#antivirus)            
-        -   [Anti Malware (Bajo demanda)](#anti-malware-bajo-demanda)            
-        -   [Firewall / Red](#firewallred)            
-        -   [Navegación](#navegaci%C3%B3n)            
-        -   [Análisis Online](#an%C3%A1lisis-online)            
-    -   [🔧 Instalación y Mantenimiento](#-instalaci%C3%B3n-y-mantenimiento)        
-        -   [Limpieza](#limpieza)            
-        -   [Gestión de Discos](#gesti%C3%B3n-de-discos)            
-        -   [Gestión de Sistema](#gesti%C3%B3n-de-sistema)            
-        -   [Gestión de Drivers](#gesti%C3%B3n-de-drivers)            
-        -   [Instalación / Actualización](#instalaci%C3%B3nactualizaci%C3%B3n)            
-    -   [🔬 Diagnóstico y Reparación](#-diagn%C3%B3stico-y-reparaci%C3%B3n)        
-        -   [Información de Hardware](#informaci%C3%B3n-de-hardware)            
-        -   [Diagnóstico](#diagn%C3%B3stico)            
-        -   [Pruebas y Reparación](#pruebas-y-reparaci%C3%B3n)            
-        -   [Redes](#redes)            
--   [💾 Respaldo y Recuperación](#-respaldo-y-recuperaci%C3%B3n)    
-    -   [Backup e Imágenes](#backup-e-im%C3%A1genes)        
-    -   [Restauración de Sistema](#restauraci%C3%B3n-de-sistema)        
-    -   [Creación de ISO](#creaci%C3%B3n-de-iso)        
--   [🆘 Herramientas de Soporte y Pendrive](#-herramientas-de-soporte-y-pendrive)    
-    -   [Creación de USBs](#creaci%C3%B3n-de-usbs)        
-    -   [Sistemas Portables](#sistemas-portables)        
-    -   [Acceso Remoto](#acceso-remoto)        
--   [🏴‍☠️ Piratería](#%E2%80%8D%EF%B8%8F-pirater%C3%ADa)    
-    -   [Repositorios](#repositorios)        
-    -   [Software](#software)        
--   [🧰 Utilidades Generales](#-utilidades-generales)    
--   [🔩 Herramientas de Hardware](#-herramientas-de-hardware)    
-    -   [🛠️ Herramientas de Mano y Medición](#%EF%B8%8Fherramientas-de-mano-y-medici%C3%B3n)        
-    -   [🔌 Adaptadores](#-adaptadores)        
-    -   [🧹 Limpieza](#-limpieza)        
-    -   [🧪 Banco de Pruebas](#banco-de-pruebas)        
-    -   [♻️ Consumibles](#%EF%B8%8Fconsumibles)        
--   [💡 Guías y Sugerencias](#-gu%C3%ADas-y-sugerencias)    
-    -   [🚚 Proveedores](#proveedores)        
-    -   [🏷️ Marcas](#%EF%B8%8Fmarcas)        
-        -   [Memoria RAM](#memoria-ram)            
-        -   [PSU](#psu)            
-        -   [Motherboards](#motherboards)            
-        -   [HDD](#hdd)            
-        -   [SSD](#ssd)            
-        -   [Placa Gráfica](#placa-gr%C3%A1fica)            
-        -   [Pasta Térmica](#pasta-t%C3%A9rmica)            
--   [🏠 Requisitos Mínimos (SOHO)](#requisitos-m%C3%ADnimos-soho)    
--   [⚡ Medición de Fuente](#-medici%C3%B3n-de-fuente)    
--   [🔤 Nomenclaturas](#nomenclaturas)    
-    -   [CPU](#cpu)        
-    -   [GPU](#gpu)        
-    -   [Distribución de Teclados](#distribuci%C3%B3n-de-teclados)       
--   [👨‍🔧 Servicios Técnicos](#%E2%80%8Dservicios-t%C3%A9cnicos)   
--   [📖 Bibliografía](#bibliograf%C3%ADa)
+<ul>
+  <li>🛠️ <a href="#%EF%B8%8F-repositorio-de-herramientas-e-informaci%C3%B3n-orientado-al-mantenimiento-de-pc-%EF%B8%8F">Repositorio de Herramientas e Información Orientado al Mantenimiento de PC</a></li>
+  <li>📍 <a href="#indicadores-de-referencia">Indicadores de referencia</a></li>
+  <li>
+    <details>
+      <summary>💻 <a href="#-herramientas-de-software">Herramientas de Software</a></summary>
+      <ul>
+        <li>⚙️ <a href="#%EF%B8%8F-preparaci%C3%B3n-de-sistema">Preparación de Sistema</a></li>
+        <li>
+          <details>
+            <summary>🛡️ <a href="#%EF%B8%8F-seguridad">Seguridad</a></summary>
+            <ul>
+              <li>Antivirus</li>
+              <li>Anti Malware (Bajo demanda)</li>
+              <li>Firewall / Red</li>
+              <li>Navegación</li>
+              <li>Análisis Online</li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>🔧 <a href="#-instalaci%C3%B3n-y-mantenimiento">Instalación y Mantenimiento</a></summary>
+            <ul>
+              <li>Limpieza</li>
+              <li>Gestión de Discos</li>
+              <li>Gestión de Sistema</li>
+              <li>Gestión de Drivers</li>
+              <li>Instalación / Actualización</li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>🔬 <a href="#-diagn%C3%B3stico-y-reparaci%C3%B3n">Diagnóstico y Reparación</a></summary>
+            <ul>
+              <li>Información de Hardware</li>
+              <li>Diagnóstico</li>
+              <li>Pruebas y Reparación</li>
+              <li>Redes</li>
+            </ul>
+          </details>
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>💾 <a href="#-respaldo-y-recuperaci%C3%B3n">Respaldo y Recuperación</a></summary>
+      <ul>
+        <li>Backup e Imágenes</li>
+        <li>Restauración de Sistema</li>
+        <li>Creación de ISO</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>🆘 <a href="#-herramientas-de-soporte-y-pendrive">Herramientas de Soporte y Pendrive</a></summary>
+      <ul>
+        <li>Creación de USBs</li>
+        <li>Sistemas Portables</li>
+        <li>Acceso Remoto</li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>🏴‍☠️ <a href="#%E2%80%8D%EF%B8%8F-pirater%C3%ADa">Piratería</a></summary>
+      <ul>
+        <li>Repositorios</li>
+        <li>Software</li>
+      </ul>
+    </details>
+  </li>
+  <li>🧰 <a href="#-utilidades-generales">Utilidades Generales</a></li>
+  <li>
+    <details>
+      <summary>🔩 <a href="#-herramientas-de-hardware">Herramientas de Hardware</a></summary>
+      <ul>
+        <li>🛠️ <a href="#%EF%B8%8Fherramientas-de-mano-y-medici%C3%B3n">Herramientas de Mano y Medición</a></li>
+        <li>🔌 <a href="#-adaptadores">Adaptadores</a></li>
+        <li>🧹 <a href="#-limpieza">Limpieza</a></li>
+        <li>🧪 <a href="#banco-de-pruebas">Banco de Pruebas</a></li>
+        <li>♻️ <a href="#%EF%B8%8Fconsumibles">Consumibles</a></li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary>💡 <a href="#-gu%C3%ADas-y-sugerencias">Guías y Sugerencias</a></summary>
+      <ul>
+        <li>🚚 <a href="#proveedores">Proveedores</a></li>
+        <li>
+          <details>
+            <summary>🏷️ <a href="#%EF%B8%8Fmarcas">Marcas</a></summary>
+            <ul>
+              <li>Memoria RAM</li>
+              <li>PSU</li>
+              <li>Motherboards</li>
+              <li>HDD</li>
+              <li>SSD</li>
+              <li>Placa Gráfica</li>
+              <li>Pasta Térmica</li>
+            </ul>
+          </details>
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>🏠 <a href="#requisitos-m%C3%ADnimos-soho">Requisitos Mínimos (SOHO)</a></li>
+  <li>⚡ <a href="#-medici%C3%B3n-de-fuente">Medición de Fuente</a></li>
+  <li>
+    <details>
+      <summary>🔤 <a href="#nomenclaturas">Nomenclaturas</a></summary>
+      <ul>
+        <li>CPU</li>
+        <li>GPU</li>
+        <li>Distribución de Teclados</li>
+      </ul>
+    </details>
+  </li>
+  <li>👨‍🔧 <a href="#%E2%80%8Dservicios-t%C3%A9cnicos">Servicios Técnicos</a></li>
+  <li>📖 <a href="#bibliograf%C3%ADa">Bibliografía</a></li>
+</ul>
  
 ## 📍Indicadores de referencia
 |Icono|Significado|
