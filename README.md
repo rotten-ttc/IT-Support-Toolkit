@@ -8,7 +8,7 @@
 | &nbsp; 📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
 | &nbsp; 🇼| Indica que el software es una **herramienta nativa de Windows**.|
 | &nbsp; 🌐| Indica que el software es una **herramienta web**.|
-| &nbsp; 💲| Indica que la funcion importante del software es **premium**.|
+| &nbsp; 💲| Indica que la caracteristica importante del software es **premium**.|
 | &nbsp; `>_`| Indica que el texto a continuacion es un **comando de consola**.|
 | &nbsp; 📝| Indica que el texto a continuacion es una **nota**.|
 | &nbsp; ‼️| Indica que el texto a continuacion es una **advertencia importante** para el usuario.|
