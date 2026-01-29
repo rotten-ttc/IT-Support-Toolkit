@@ -1,19 +1,17 @@
-
-
-
 ## 🛠️ Repositorio de Herramientas e Información Orientado al Mantenimiento de PC 🛠️
 
--***@Rotten_ttc***  por todos lados- 
+> **@rotten_ttc**  por todos lados
 
 ## 📍Indicadores de referencia
 |Icono|Significado|
 |-|-|
-|📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
-|🇼| Indica que el software es una **herramienta nativa de Windows**.|
-|🌐| Indica que el software es una **herramienta web**.|
-|`>_`| Indica que el texto a continuacion es un **comando de consola**.|
-|📝| Indica que el texto a continuacion es una **nota**.|
-|‼️| Indica que el texto a continuacion es una **advertencia importante** para el usuario.|
+| &nbsp; 📦| Indica que el software tiene una **versión portable** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el símbolo aparecerá, pero no redirigirá a ningún sitio.|
+| &nbsp; 🇼| Indica que el software es una **herramienta nativa de Windows**.|
+| &nbsp; 🌐| Indica que el software es una **herramienta web**.|
+| &nbsp; 💲| Indica que la funcion importante del software es **premium**.|
+| &nbsp; `>_`| Indica que el texto a continuacion es un **comando de consola**.|
+| &nbsp; 📝| Indica que el texto a continuacion es una **nota**.|
+| &nbsp; ‼️| Indica que el texto a continuacion es una **advertencia importante** para el usuario.|
 
 # 💻 Herramientas de Software
 
@@ -34,8 +32,8 @@
 
 |Antivirus|Consumo|
 |-|-|
-|[**Kaspersky**](https://www.kaspersky.com/)|Medio|
-|[**Norton**](https://ar.norton.com/)|Alto |
+|[**Kaspersky**](https://www.kaspersky.com/) &nbsp; 💲|Medio|
+|[**Norton**](https://ar.norton.com/) &nbsp; 💲|Alto |
 |**Windows Defender** &nbsp; 🇼 `>_` `start windowsdefender:`|Alto |
 |[**Avira**](https://www.avira.com/es?srsltid=AfmBOoqn3e2xm4DsIbetWA-DvKvF2VZ_vanKTy06ihXMUMVWqhTlpPug)|Bajo |
 |[**Panda Free**](https://www.pandasecurity.com/es/homeusers/free-antivirus/)|Bajo |
@@ -54,7 +52,7 @@
 
 * **Windows Firewall** &nbsp; 🇼
     * [**Windows Firewall Control**](https://binisoft.org/wfc)
-* [**ZoneAlarm**](https://www.zonealarm.com/es)
+* [**ZoneAlarm**](https://www.zonealarm.com/es) &nbsp; 💲
 * [**Comodo**](https://www.comodo.com/home/internet-security/firewall.php)
 
 ### Navegación
@@ -165,8 +163,8 @@
 ### Restauración de Sistema
 
 * [**Recuva**](https://www.ccleaner.com/recuva?srsltid=AfmBOorylJ-cMN2L6YcFI6pt4Yfyg_8pC9sfMnDB0h4ra8NSacO8qeec) &nbsp; [📦](https://portableapps.com/apps/utilities/rcvportable)
-* [**Rollback RX Pro**](https://horizondatasys.com/rollback-rx-time-machine/rollback-rx-professional/)
-* [**Deep Freeze**](https://www.faronics.com/es/products/deep-freeze)
+* [**Rollback RX Pro**](https://horizondatasys.com/rollback-rx-time-machine/rollback-rx-professional/) &nbsp; 💲
+* [**Deep Freeze**](https://www.faronics.com/es/products/deep-freeze) &nbsp; 💲
 
 ### Creación de ISO
 
