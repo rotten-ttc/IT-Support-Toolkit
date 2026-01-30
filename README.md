@@ -1,3 +1,4 @@
+
 <h1 align="center">🛠️IT Support Toolkit🛠️</h1>
 
 <h3 align="center"> <img width="500" src="Images/Courage the Support IT Dog.png" > </h3>
@@ -29,6 +30,7 @@
           </details>
         </li>
         <li>📍 <a href="#indicadores-de-referencia">Indicadores de referencia</a></li>
+        <li>🆕 <a href="#ultimos-añadidos">Ultimos añadidos</a></li>
       </ul>
     </details>
   </li>
@@ -242,6 +244,15 @@
 
 <sub>[📑Index](#index)</sub>
 
+## 🆕Ultimos añadidos
+
+* [**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable)
+* [**SSD-Z**](http://aezay.dk/aezay/ssdz/) &nbsp; 📦
+* [**AIDA64**](https://www.aida64.com/downloads/ZGZiOGMxNWQ=) &nbsp; 📦💲
+* [**FurMark**](https://geeks3d.com/furmark/downloads/) &nbsp; 📦 
+
+<sub>[📑Index](#index)</sub>
+
 # 💻Herramientas de Software
 
 ## ⚙️Preparacion de Sistema
@@ -358,8 +369,10 @@
 
 * [**CrystalDiskInfo**](https://crystalmark.info/en/download/#CrystalDiskInfo) &nbsp; 📦 
 * 🐐[**Clear Disk Info**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
+* [**SSD-Z**](http://aezay.dk/aezay/ssdz/) &nbsp; 📦
 * [**USB Tree Viewer**](https://www.majorgeeks.com/files/details/usb_device_tree_viewer.html)
 * 🐐[**HWiNFO**](https://www.hwinfo.com/) &nbsp; 📦 
+* [**AIDA64**](https://www.aida64.com/downloads/ZGZiOGMxNWQ=) &nbsp; 📦💲
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) &nbsp; 📦 
 * [**OCCT**](https://www.ocbase.com/download) &nbsp; 📦 
 * [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html) &nbsp; 📦 
@@ -373,9 +386,6 @@
     * [**WhoCrashed**](https://www.resplendence.com/downloads)
 * [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html) &nbsp; 📦 
 * [**Switch Hitter**](https://www.majorgeeks.com/files/details/switch_hitter.html)
-* **SIGVERIF** &nbsp; 🇼 `>_` `sigverif`
-* **System File Checker** &nbsp; 🇼 `>_` `sfc /scannow` 
-* **DISM** &nbsp; 🇼 `>_` ``dism /online /cleanup-image /restorehealth``
 
 ### Pruebas y Reparacion
 
@@ -383,8 +393,13 @@
     * [**Performance Test**](https://www.passmark.com/products/performancetest/download.php) &nbsp; [📦](https://www.passmark.com/support/performancetest_faq/portable-usb.php) 
     * [**MemTest86**](https://www.memtest86.com/download.htm) &nbsp; 📀
 * [**PowerMax**](https://www.cpuid.com/softwares/powermax.html) &nbsp; [📦](https://www.cpuid.com/downloads/powermax/powermax_1.00.zip)
+* [**FurMark**](https://geeks3d.com/furmark/downloads/) &nbsp; 📦 
 * 🐐[**Veronica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; 📦 
 * [**SpinRite**](https://www.grc.com/sr/spinrite.htm) &nbsp; 💲📀
+* **SIGVERIF** &nbsp; 🇼 `>_` `sigverif`
+* **System File Checker** &nbsp; 🇼 `>_` `sfc /scannow` 
+* **DISM** &nbsp; 🇼 `>_` ``dism /online /cleanup-image /restorehealth``
+
 
 ### Redes
 
@@ -471,8 +486,9 @@
 * [**WPS Office**](https://es.wps.com/download/) &nbsp; ℹ️*Alternativa a Microsoft Office*
 * [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
 * [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)ℹ️*Desbloquear archivos*
+* [**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable) ℹ️*Gestion de torrents*
 
-<sub>[📑Index](#index)</sub>
+<sub>[📑Index](#index)</sub> 
 
 # 🔩Herramientas de Hardware
 
