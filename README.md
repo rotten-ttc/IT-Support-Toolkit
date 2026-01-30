@@ -1,6 +1,7 @@
+
 <h1 align="center">🛠️IT Support Toolkit🛠️</h1>
 
-<h3 align="center"> <img width="500" src="https://media.discordapp.net/attachments/1106297060745035837/1466332541244936265/CowardlyDog.png?ex=697c5c18&is=697b0a98&hm=ac9a729643df464b4e3e98d9448ab385cb9b054f4cce53d600c9ae37b53e5b4f&=&format=webp&quality=lossless" > </h3>
+<h3 align="center"> <img width="500" src="Images/Courage the Support IT Dog.png" > </h3>
 
 *<h3 align="center"> @rotten_ttc  por todos lados</h3>*
 
@@ -29,13 +30,14 @@
           </details>
         </li>
         <li>📍 <a href="#indicadores-de-referencia">Indicadores de referencia</a></li>
+        <li>🆕 <a href="#ultimos-añadidos">Ultimos añadidos</a></li>
       </ul>
     </details>
   </li>
 </ul>
 <ul>
   <li>
-    <details>
+    <details open>
       <summary>💻 <a href="#herramientas-de-software">Herramientas de Software</a></summary>
       <ul>
         <li>⚙️ <a href="#%EF%B8%8Fpreparacion-de-sistema">Preparación de Sistema</a></li>
@@ -110,7 +112,7 @@
 </ul>
 <ul>
   <li>
-    <details>
+    <details open>
       <summary>🔩 <a href="#herramientas-de-hardware">Herramientas de Hardware</a></summary>
       <ul>
         <li>🛠️ <a href="#%EF%B8%8Fherramientas-de-mano-y-medicion">Herramientas de Mano y Medición</a></li>
@@ -124,7 +126,7 @@
 </ul>
 <ul>
   <li>
-    <details>
+    <details open>
       <summary>💡 <a href="#guias-y-sugerencias">Guías y Sugerencias</a></summary>
       <ul>
         <li>🚚 <a href="#proveedores">Proveedores</a></li>
@@ -178,7 +180,7 @@
 ### [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
  &nbsp; Combinacion de una version ligera y estable de Windows (LTSC) con un script de automatizacion para post-instalacion.
 
- &nbsp; <sub>⚙️ [**Preparacion de Sistema**](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)
+ &nbsp; <sub>⚙️ [**Preparacion de Sistema**](#%EF%B8%8Fpreparacion-de-sistema)
 
 ### [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
  &nbsp; Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. util para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
@@ -188,12 +190,12 @@
 ### [Ventoy](https://sourceforge.net/projects/ventoy/)
  &nbsp; Permite crear una unidad de arranque multiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
 
- &nbsp; <sub>🆘 [**Creacion de USBs**](#creaci%C3%B3n-de-usbs)
+ &nbsp; <sub>🆘 [**Creacion de USBs**](#creacion-de-usbs)
 
 ### [Macrium Reflect](https://www.macrium.com/)
  &nbsp; Software especializado en la creacion de imagenes de disco y clonacion de unidades de almacenamiento.
 
- &nbsp; <sub>💾 [**Backup e Imagenes**](#backup-e-im%C3%A1genes)
+ &nbsp; <sub>💾 [**Backup e Imagenes**](#backup-e-imagenes)
 
 ### [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
  &nbsp; Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrion.
@@ -203,27 +205,27 @@
 ### [MiniTool Partition Wizard](https://www.partitionwizard.com/)
  &nbsp; Herramienta para la administracion avanzada de discos duros y SSD.
 
- &nbsp; <sub> 🔧 [**Gestion de Discos**](#gesti%C3%B3n-de-discos)
+ &nbsp; <sub> 🔧 [**Gestion de Discos**](#gestion-de-discos)
 
 ### [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
  &nbsp; Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado fisico de los sectores.
 
- &nbsp; <sub>🔬 [**Pruebas y Reparacion**](#pruebas-y-reparaci%C3%B3n)
+ &nbsp; <sub>🔬 [**Pruebas y Reparacion**](#pruebas-y-reparacion)
 
 ### [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
  &nbsp; Herramienta para la busqueda e instalacion de controladores de hardware, especialmente util cuando no hay conexion a internet.
 
- &nbsp; <sub>🔧 [**Gestion de Drivers**](#gesti%C3%B3n-de-discos)
+ &nbsp; <sub>🔧 [**Gestion de Drivers**](#gestion-de-drivers)
 
 ### [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
  &nbsp; Visualizador de la salud de unidades de almacenamiento que interpreta los datos tecnicos del firmware del disco.
 
- &nbsp; <sub>🔬 [**Informacion de Hardware**](#informaci%C3%B3n-de-hardware)
+ &nbsp; <sub>🔬 [**Informacion de Hardware**](#informacion-de-hardware)
 
 ### [Everything](https://www.voidtools.com/downloads/)
  &nbsp; Motor de busqueda local que localiza archivos y carpetas por nombre de forma instantanea.
 
- &nbsp; <sub>🧰 [**Utilidades Generales**](#-utilidades-generales)
+ &nbsp; <sub>🧰 [**Utilidades Generales**](#utilidades-generales)
 
 <sub>[📑Index](#index)</sub>
 
@@ -239,6 +241,15 @@
 | &nbsp; `>_`| Indica que el **texto** a continuacion es un ***comando de consola***.|
 | &nbsp; ℹ️| Indica que el **texto** a continuacion es una ***nota***.|
 | &nbsp; ‼️| Indica que el **texto** a continuacion es una ***advertencia importante*** para el usuario.|
+
+<sub>[📑Index](#index)</sub>
+
+## 🆕Ultimos añadidos
+
+* [**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable)
+* [**SSD-Z**](http://aezay.dk/aezay/ssdz/) &nbsp; 📦
+* [**AIDA64**](https://www.aida64.com/downloads/ZGZiOGMxNWQ=) &nbsp; 📦💲
+* [**FurMark**](https://geeks3d.com/furmark/downloads/) &nbsp; 📦 
 
 <sub>[📑Index](#index)</sub>
 
@@ -358,8 +369,10 @@
 
 * [**CrystalDiskInfo**](https://crystalmark.info/en/download/#CrystalDiskInfo) &nbsp; 📦 
 * 🐐[**Clear Disk Info**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
+* [**SSD-Z**](http://aezay.dk/aezay/ssdz/) &nbsp; 📦
 * [**USB Tree Viewer**](https://www.majorgeeks.com/files/details/usb_device_tree_viewer.html)
 * 🐐[**HWiNFO**](https://www.hwinfo.com/) &nbsp; 📦 
+* [**AIDA64**](https://www.aida64.com/downloads/ZGZiOGMxNWQ=) &nbsp; 📦💲
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) &nbsp; 📦 
 * [**OCCT**](https://www.ocbase.com/download) &nbsp; 📦 
 * [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html) &nbsp; 📦 
@@ -373,9 +386,6 @@
     * [**WhoCrashed**](https://www.resplendence.com/downloads)
 * [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html) &nbsp; 📦 
 * [**Switch Hitter**](https://www.majorgeeks.com/files/details/switch_hitter.html)
-* **SIGVERIF** &nbsp; 🇼 `>_` `sigverif`
-* **System File Checker** &nbsp; 🇼 `>_` `sfc /scannow` 
-* **DISM** &nbsp; 🇼 `>_` ``dism /online /cleanup-image /restorehealth``
 
 ### Pruebas y Reparacion
 
@@ -383,8 +393,13 @@
     * [**Performance Test**](https://www.passmark.com/products/performancetest/download.php) &nbsp; [📦](https://www.passmark.com/support/performancetest_faq/portable-usb.php) 
     * [**MemTest86**](https://www.memtest86.com/download.htm) &nbsp; 📀
 * [**PowerMax**](https://www.cpuid.com/softwares/powermax.html) &nbsp; [📦](https://www.cpuid.com/downloads/powermax/powermax_1.00.zip)
+* [**FurMark**](https://geeks3d.com/furmark/downloads/) &nbsp; 📦 
 * 🐐[**Veronica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; 📦 
 * [**SpinRite**](https://www.grc.com/sr/spinrite.htm) &nbsp; 💲📀
+* **SIGVERIF** &nbsp; 🇼 `>_` `sigverif`
+* **System File Checker** &nbsp; 🇼 `>_` `sfc /scannow` 
+* **DISM** &nbsp; 🇼 `>_` ``dism /online /cleanup-image /restorehealth``
+
 
 ### Redes
 
@@ -471,8 +486,9 @@
 * [**WPS Office**](https://es.wps.com/download/) &nbsp; ℹ️*Alternativa a Microsoft Office*
 * [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
 * [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)ℹ️*Desbloquear archivos*
+* [**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable) ℹ️*Gestion de torrents*
 
-<sub>[📑Index](#index)</sub>
+<sub>[📑Index](#index)</sub> 
 
 # 🔩Herramientas de Hardware
 
@@ -709,12 +725,12 @@
 ## 🔤Nomenclaturas
 
 ### CPU
-<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745209716818/AMD_CPU.png?ex=697988a6&is=69783726&hm=e17634e2e1c2885ce845c6e6a66730b8ca2a7dcfe9cd7193cfc319ed057ff1c6&=&format=webp&quality=lossless" >
-<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555745733869620/INTEL_CPU.png?ex=697988a6&is=69783726&hm=bb9cbfdfd0be8ae41dfba51311a358e927cff47493521fa140867dd4c4b3e31b&=&format=webp&quality=lossless" >
+<img width="700" src="Images/Understanding AMD CPU names - 2020.png" >
+<img width="700" src="Images/Understanding Intel CPU names - 2020.png" >
 
 ### GPU
-<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746484785346/NVIDIA_GPU.png?ex=697988a6&is=69783726&hm=a799b7253bfc58a60aa5f7f662912a06e1ffa52615ae9bfbbdb22f218c221161&=&format=webp&quality=lossless" >
-<img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746140983449/AMD_GPU.png?ex=697988a6&is=69783726&hm=44f0a52a24be0e2b20cbe9654fe55f71f02cb9e1d3bdc143b2dd6511689c9494&=&format=webp&quality=lossless" >
+<img width="700" src="Images/Understanding NVIDIA GPU names - 2020.png" >
+<img width="700" src="Images/Understanding AMD GPU names - 2020.png" >
 
 ### Distribucion de Teclados
 
