@@ -1,76 +1,94 @@
-<h1 align="center"> 🛠️ IT Support Toolkit 🛠️</h1>
+<h1 align="center">🛠️IT Support Toolkit🛠️</h1>
 
-> **@rotten_ttc**  por todos lados
+<h3 align="center"> <img width="500" src="https://media.discordapp.net/attachments/1106297060745035837/1466332541244936265/CowardlyDog.png?ex=697c5c18&is=697b0a98&hm=ac9a729643df464b4e3e98d9448ab385cb9b054f4cce53d600c9ae37b53e5b4f&=&format=webp&quality=lossless" > </h3>
 
-<h1 align="center"> <img width="500" src="https://media.discordapp.net/attachments/1106297060745035837/1466332541244936265/CowardlyDog.png?ex=697c5c18&is=697b0a98&hm=ac9a729643df464b4e3e98d9448ab385cb9b054f4cce53d600c9ae37b53e5b4f&=&format=webp&quality=lossless" >
+*<h3 align="center"> @rotten_ttc  por todos lados</h3>*
 
-## 📑 Índice
-
+## 📑Index
 <ul>
   <li>
     <details open>
-      <summary>🛠️ IT Support Toolkit 🛠️</a></summary>
+      <summary>🛠️ <a href="#%EF%B8%8Fit-support-toolkit%EF%B8%8F">IT Support Toolkit</a></summary>
       <ul>
-        <li><a href="#indicadores-de-referencia">📍 Indicadores de referencia</a></li>
-        <li><a href="#-top-10-it-support-toolkit">🏆 Top 10 IT Support Toolkit</a></li>
+        <li>📑 <a href="#index">Index</a></li>
         <li>
           <details>
-            <summary><a href="#-herramientas-de-software">💻 Herramientas de Software</a></summary>
+            <summary>🐐 <a href="#top-10-it-support-toolkit">Top 10 IT Support Toolkit</a></summary>
             <ul>
-              <li><a href="#%EF%B8%8F-preparaci%C3%B3n-de-sistema">⚙️ Preparación de Sistema</a></li>
-              <li>
-                <details>
-                  <summary><a href="#%EF%B8%8F-seguridad">🛡️ Seguridad</a></summary>
-                  <ul>
-                    <li><a href="#antivirus">Antivirus</a></li>
-                    <li><a href="#anti-malware-bajo-demanda">Anti Malware (Bajo demanda)</a></li>
-                    <li><a href="#firewallred">Firewall / Red</a></li>
-                    <li><a href="#navegaci%C3%B3n">Navegación</a></li>
-                    <li><a href="#an%C3%A1lisis-online">Análisis Online</a></li>
-                  </ul>
-                </details>
-              </li>
-              <li>
-                <details>
-                  <summary><a href="#-instalaci%C3%B3n-y-mantenimiento">🔧 Instalación y Mantenimiento</a></summary>
-                  <ul>
-                    <li><a href="#limpieza">Limpieza</a></li>
-                    <li><a href="#gesti%C3%B3n-de-discos">Gestión de Discos</a></li>
-                    <li><a href="#gesti%C3%B3n-de-sistema">Gestión de Sistema</a></li>
-                    <li><a href="#gesti%C3%B3n-de-drivers">Gestión de Drivers</a></li>
-                    <li><a href="#instalaci%C3%B3nactualizaci%C3%B3n">Instalación / Actualización</a></li>
-                  </ul>
-                </details>
-              </li>
-              <li>
-                <details>
-                  <summary><a href="#-diagn%C3%B3stico-y-reparaci%C3%B3n">🔬 Diagnóstico y Reparación</a></summary>
-                  <ul>
-                    <li><a href="#informaci%C3%B3n-de-hardware">Información de Hardware</a></li>
-                    <li><a href="#diagn%C3%B3stico">Diagnóstico</a></li>
-                    <li><a href="#pruebas-y-reparaci%C3%B3n">Pruebas y Reparación</a></li>
-                    <li><a href="#redes">Redes</a></li>
-                  </ul>
-                </details>
-              </li>
+              <li><a href="#win-11-ltsc--ctt-utility">Win 11 LTSC + CTT Utility</a></li>
+              <li><a href="#sergei-strelec-winpe">Sergei Strelec WinPE</a></li>
+              <li><a href="#ventoy">Ventoy</a></li>
+              <li><a href="#macrium-reflect">Macrium Reflect</a></li>
+              <li><a href="#kaspersky-rescue-disk">Kaspersky Rescue Disk</a></li>
+              <li><a href="#minitool-partition-wizard">MiniTool Partition Wizard</a></li>
+              <li><a href="#victoria-hddssd">Victoria HDD/SSD</a></li>
+              <li><a href="#snappy-driver-installer-lite">Snappy Driver Installer (Lite)</a></li>
+              <li><a href="#clear-disk-info">Clear Disk Info</a></li>
+              <li><a href="#everything">Everything</a></li>
+            </ul>
+          </details>
+        </li>
+        <li>📍 <a href="#indicadores-de-referencia">Indicadores de referencia</a></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+<ul>
+  <li>
+    <details>
+      <summary>💻 <a href="#herramientas-de-software">Herramientas de Software</a></summary>
+      <ul>
+        <li>⚙️ <a href="#%EF%B8%8Fpreparacion-de-sistema">Preparación de Sistema</a></li>
+        <li>
+          <details>
+            <summary>🛡️ <a href="#%EF%B8%8Fseguridad">Seguridad</a></summary>
+            <ul>
+              <li><a href="#antivirus">Antivirus</a></li>
+              <li><a href="#anti-malware-bajo-demanda">Anti Malware (Bajo demanda)</a></li>
+              <li><a href="#firewallred">Firewall / Red</a></li>
+              <li><a href="#navegacion">Navegación</a></li>
+              <li><a href="#analisis-online">Análisis Online</a></li>
             </ul>
           </details>
         </li>
         <li>
           <details>
-            <summary><a href="#-respaldo-y-recuperaci%C3%B3n">💾 Respaldo y Recuperación</a></summary>
+            <summary>🔧 <a href="#instalacion-y-mantenimiento">Instalación y Mantenimiento</a></summary>
             <ul>
-              <li><a href="#backup-e-im%C3%A1genes">Backup e Imágenes</a></li>
-              <li><a href="#restauraci%C3%B3n-de-sistema">Restauración de Sistema</a></li>
-              <li><a href="#creaci%C3%B3n-de-iso">Creación de ISO</a></li>
+              <li><a href="#limpieza">Limpieza</a></li>
+              <li><a href="#gestion-de-discos">Gestión de Discos</a></li>
+              <li><a href="#gestion-de-sistema">Gestión de Sistema</a></li>
+              <li><a href="#gestion-de-drivers">Gestión de Drivers</a></li>
+              <li><a href="#instalacionactualizacion">Instalación / Actualización</a></li>
             </ul>
           </details>
         </li>
         <li>
           <details>
-            <summary><a href="#-herramientas-de-soporte-y-pendrive">🆘 Herramientas de Soporte y Pendrive</a></summary>
+            <summary>🔬 <a href="#diagnostico-y-reparacion">Diagnóstico y Reparación</a></summary>
             <ul>
-              <li><a href="#creaci%C3%B3n-de-usbs">Creación de USBs</a></li>
+              <li><a href="#informacion-de-hardware">Información de Hardware</a></li>
+              <li><a href="#diagnostico">Diagnóstico</a></li>
+              <li><a href="#pruebas-y-reparacion">Pruebas y Reparación</a></li>
+              <li><a href="#redes">Redes</a></li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>💾 <a href="#respaldo-y-recuperacion">Respaldo y Recuperación</a></summary>
+            <ul>
+              <li><a href="#backup-e-imagenes">Backup e Imágenes</a></li>
+              <li><a href="#restauracion-de-sistema">Restauración de Sistema</a></li>
+              <li><a href="#creacion-de-iso">Creación de ISO</a></li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>🆘 <a href="#herramientas-de-soporte-y-pendrive">Soporte y Pendrive</a></summary>
+            <ul>
+              <li><a href="#creacion-de-usbs">Creación de USBs</a></li>
               <li><a href="#sistemas-portables">Sistemas Portables</a></li>
               <li><a href="#acceso-remoto">Acceso Remoto</a></li>
             </ul>
@@ -78,157 +96,168 @@
         </li>
         <li>
           <details>
-            <summary><a href="#%E2%80%8D%EF%B8%8F-pirater%C3%ADa">🏴‍☠️ Piratería</a></summary>
+            <summary>🏴‍☠️ <a href="#%E2%80%8D%EF%B8%8Fpirateria">Piratería</a></summary>
             <ul>
               <li><a href="#repositorios">Repositorios</a></li>
               <li><a href="#software">Software</a></li>
             </ul>
           </details>
         </li>
-        <li><a href="#-utilidades-generales">🧰 Utilidades Generales</a></li>
+        <li>🧰 <a href="#utilidades-generales">Utilidades Generales</a></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+<ul>
+  <li>
+    <details>
+      <summary>🔩 <a href="#herramientas-de-hardware">Herramientas de Hardware</a></summary>
+      <ul>
+        <li>🛠️ <a href="#%EF%B8%8Fherramientas-de-mano-y-medicion">Herramientas de Mano y Medición</a></li>
+        <li>🔌 <a href="#adaptadores">Adaptadores</a></li>
+        <li>🧹 <a href="#limpieza-1">Limpieza</a></li>
+        <li>🧪 <a href="#banco-de-pruebas">Banco de Pruebas</a></li>
+        <li>♻️ <a href="#%EF%B8%8Fconsumibles">Consumibles</a></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+<ul>
+  <li>
+    <details>
+      <summary>💡 <a href="#guias-y-sugerencias">Guías y Sugerencias</a></summary>
+      <ul>
+        <li>🚚 <a href="#proveedores">Proveedores</a></li>
         <li>
           <details>
-            <summary><a href="#-herramientas-de-hardware">🔩 Herramientas de Hardware</a></summary>
+            <summary>🏷️ <a href="#%EF%B8%8Fmarcas">Marcas</a></summary>
             <ul>
-              <li><a href="#%EF%B8%8Fherramientas-de-mano-y-medici%C3%B3n">🛠️ Herramientas de Mano y Medición</a></li>
-              <li><a href="#-adaptadores">🔌 Adaptadores</a></li>
-              <li><a href="#-limpieza">🧹 Limpieza</a></li>
-              <li><a href="#banco-de-pruebas">🧪 Banco de Pruebas</a></li>
-              <li><a href="#%EF%B8%8Fconsumibles">♻️ Consumibles</a></li>
+              <li><a href="#memoria-ram">Memoria RAM</a></li>
+              <li><a href="#psu">PSU</a></li>
+              <li><a href="#motherboards">Motherboards</a></li>
+              <li><a href="#hdd">HDD</a></li>
+              <li><a href="#ssd">SSD</a></li>
+              <li><a href="#placa-grafica">Placa Gráfica</a></li>
+              <li><a href="#pasta-termica">Pasta Térmica</a></li>
+            </ul>
+          </details>
+        </li>
+        <li>🏠 <a href="#requisitos-minimos-soho">Requisitos Mínimos (SOHO)</a></li>
+        <li>
+          <details>
+            <summary>⚡ <a href="#medicion-de-fuente">Medición de Fuente</a></summary>
+            <ul>
+              <li><a href="#diagramas-de-pines-de-fuente">Diagramas de pines de fuente</a></li>
             </ul>
           </details>
         </li>
         <li>
           <details>
-            <summary><a href="#-gu%C3%ADas-y-sugerencias">💡 Guías y Sugerencias</a></summary>
-            <ul>
-              <li><a href="#proveedores">🚚 Proveedores</a></li>
-              <li>
-                <details>
-                  <summary><a href="#%EF%B8%8Fmarcas">🏷️ Marcas</a></summary>
-                  <ul>
-                    <li><a href="#memoria-ram">Memoria RAM</a></li>
-                    <li><a href="#psu">PSU</a></li>
-                    <li><a href="#motherboards">Motherboards</a></li>
-                    <li><a href="#hdd">HDD</a></li>
-                    <li><a href="#ssd">SSD</a></li>
-                    <li><a href="#placa-gr%C3%A1fica">Placa Gráfica</a></li>
-                    <li><a href="#pasta-t%C3%A9rmica">Pasta Térmica</a></li>
-                  </ul>
-                </details>
-              </li>
-            </ul>
-          </details>
-        </li>
-        <li><a href="#requisitos-m%C3%ADnimos-soho">🏠 Requisitos Mínimos (SOHO)</a></li>
-        <li><a href="#-medici%C3%B3n-de-fuente">⚡ Medición de Fuente</a></li>
-        <li>
-          <details>
-            <summary><a href="#nomenclaturas">🔤 Nomenclaturas</a></summary>
+            <summary>🔤 <a href="#nomenclaturas">Nomenclaturas</a></summary>
             <ul>
               <li><a href="#cpu">CPU</a></li>
               <li><a href="#gpu">GPU</a></li>
-              <li><a href="#distribuci%C3%B3n-de-teclados">Distribución de Teclados</a></li>
+              <li><a href="#distribucion-de-teclados">Distribución de Teclados</a></li>
             </ul>
           </details>
         </li>
-        <li><a href="#%E2%80%8Dservicios-t%C3%A9cnicos">👨‍🔧 Servicios Técnicos</a></li>
-        <li><a href="#bibliograf%C3%ADa">📖 Bibliografía</a></li>
+        <li>👨‍🔧 <a href="#%E2%80%8Dservicios-tecnicos">Servicios Técnicos</a></li>
+        <li>📖 <a href="#bibliografia">Bibliografía</a></li>
       </ul>
     </details>
   </li>
 </ul>
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
  
-# 🐐 Top 10 IT Support Toolkit
+## 🐐Top 10 IT Support Toolkit
 
 > [!NOTE]
-> **Selección de herramientas para diagnóstico, reparación y mantenimiento técnico de equipos informáticos.**
+> **Seleccion de herramientas para diagnostico, reparacion y mantenimiento tecnico de equipos informaticos.**
 
 ### [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
-Combinación de una versión ligera y estable de Windows (LTSC) con un script de automatización para post-instalación.
+ &nbsp; Combinacion de una version ligera y estable de Windows (LTSC) con un script de automatizacion para post-instalacion.
 
-<sub>⚙️ [**Preparación de Sistema**](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)
+ &nbsp; <sub>⚙️ [**Preparacion de Sistema**](#%EF%B8%8F-preparaci%C3%B3n-de-sistema)
 
 ### [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
-* Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. Útil para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
+ &nbsp; Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. util para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
 
-<sub>🆘 [**Sistemas Portables**](#sistemas-portables)
+ &nbsp; <sub>🆘 [**Sistemas Portables**](#sistemas-portables)
 
 ### [Ventoy](https://sourceforge.net/projects/ventoy/)
-* Permite crear una unidad de arranque múltiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
+ &nbsp; Permite crear una unidad de arranque multiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
 
-<sub>🆘 [**Creación de USBs**](#creaci%C3%B3n-de-usbs)
+ &nbsp; <sub>🆘 [**Creacion de USBs**](#creaci%C3%B3n-de-usbs)
 
 ### [Macrium Reflect](https://www.macrium.com/)
-* Software especializado en la creación de imágenes de disco y clonación de unidades de almacenamiento.
+ &nbsp; Software especializado en la creacion de imagenes de disco y clonacion de unidades de almacenamiento.
 
-<sub>💾 [**Backup e Imágenes**](#backup-e-im%C3%A1genes)
+ &nbsp; <sub>💾 [**Backup e Imagenes**](#backup-e-im%C3%A1genes)
 
 ### [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
-* Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrión.
+ &nbsp; Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrion.
 
-<sub>🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
+ &nbsp; <sub>🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
 
 ### [MiniTool Partition Wizard](https://www.partitionwizard.com/)
-* Herramienta para la administración avanzada de discos duros y SSD.
+ &nbsp; Herramienta para la administracion avanzada de discos duros y SSD.
 
-<sub> 🔧 [**Gestión de Discos**](#gesti%C3%B3n-de-discos)
+ &nbsp; <sub> 🔧 [**Gestion de Discos**](#gesti%C3%B3n-de-discos)
 
 ### [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
-* Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado físico de los sectores.
+ &nbsp; Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado fisico de los sectores.
 
-<sub>🔬 [**Pruebas y Reparación**](#pruebas-y-reparaci%C3%B3n)
+ &nbsp; <sub>🔬 [**Pruebas y Reparacion**](#pruebas-y-reparaci%C3%B3n)
 
 ### [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
-* Herramienta para la búsqueda e instalación de controladores de hardware, especialmente útil cuando no hay conexión a internet.
+ &nbsp; Herramienta para la busqueda e instalacion de controladores de hardware, especialmente util cuando no hay conexion a internet.
 
-<sub>🔧 [**Gestión de Drivers**](#gesti%C3%B3n-de-discos)
+ &nbsp; <sub>🔧 [**Gestion de Drivers**](#gesti%C3%B3n-de-discos)
 
 ### [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
-* Visualizador de la salud de unidades de almacenamiento que interpreta los datos técnicos del firmware del disco.
+ &nbsp; Visualizador de la salud de unidades de almacenamiento que interpreta los datos tecnicos del firmware del disco.
 
-<sub>🔬 [**Información de Hardware**](#informaci%C3%B3n-de-hardware)
+ &nbsp; <sub>🔬 [**Informacion de Hardware**](#informaci%C3%B3n-de-hardware)
 
 ### [Everything](https://www.voidtools.com/downloads/)
-* Motor de búsqueda local que localiza archivos y carpetas por nombre de forma instantánea.
+ &nbsp; Motor de busqueda local que localiza archivos y carpetas por nombre de forma instantanea.
 
-<sub>🧰 [**Utilidades Generales**](#-utilidades-generales)
+ &nbsp; <sub>🧰 [**Utilidades Generales**](#-utilidades-generales)
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
 ## 📍Indicadores de referencia
 |Icono|Significado|
 |-|-|
-| &nbsp; 🐐| Indica que la **herramienta** es particularmente destacado en alguna característica.|
-| &nbsp; 📦| Indica que el **software** tiene una ***versión portable*** y puedes hacer clic en él para acceder. Si es portable de forma nativa o tiene una versión oficial en su página de descargas principal, el icono aparecerá, pero no redirigirá a ningún sitio.|
+| &nbsp; 🐐| Indica que la **herramienta** es particularmente destacado en alguna caracteristica.|
+| &nbsp; 📦| Indica que el **software** tiene una ***version portable*** y puedes hacer clic en el para acceder. Si es portable de forma nativa o tiene una version oficial en su pagina de descargas principal, el icono aparecera, pero no redirigira a ningun sitio.|
 | &nbsp; 🇼| Indica que el **software** es una ***herramienta nativa de Windows***.|
 | &nbsp; 🌐| Indica que el **software** es una ***herramienta web***.|
 | &nbsp; 📀| Indica que el **software** es un ***Live CD***.|
-| &nbsp; 💲| Indica que la característica importante del **software** es ***premium***.|
-| &nbsp; `>_`| Indica que el **texto** a continuación es un ***comando de consola***.|
-| &nbsp; ℹ️| Indica que el **texto** a continuación es una ***nota***.|
-| &nbsp; ‼️| Indica que el **texto** a continuación es una ***advertencia importante*** para el usuario.|
+| &nbsp; 💲| Indica que la caracteristica importante del **software** es ***premium***.|
+| &nbsp; `>_`| Indica que el **texto** a continuacion es un ***comando de consola***.|
+| &nbsp; ℹ️| Indica que el **texto** a continuacion es una ***nota***.|
+| &nbsp; ‼️| Indica que el **texto** a continuacion es una ***advertencia importante*** para el usuario.|
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-# 💻 Herramientas de Software
+# 💻Herramientas de Software
 
-## ⚙️ Preparación de Sistema
+## ⚙️Preparacion de Sistema
 
 * 🐐[**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links)
 * 🐐[**CTT Utility**](https://christitus.com/windows-tool/) &nbsp; `>_` `irm christitus.com/win | iex`
 * 🐐[**Massgrave**](https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file) &nbsp; `>_` `irm https://get.activated.win | iex`
 * [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html) &nbsp; 📦
-* [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ‼️*Al bootear desde el pendrive se instala el sistema automáticamente*
+* [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ‼️*Al bootear desde el pendrive se instala el sistema automaticamente*
 * [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/6d4827b93b165bfaa0f87acccd87d06fa8ac06ba/Scripts/AtlasDesktop)
 * 🐐[**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🛡️ Seguridad
+## 🛡️Seguridad
 
 ### Antivirus
 
@@ -260,22 +289,22 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**ZoneAlarm**](https://www.zonealarm.com/es) &nbsp; 💲
 * [**Comodo**](https://www.comodo.com/home/internet-security/firewall.php)
 
-### Navegación
+### Navegacion
 
 * [**Ghostery**](https://www.ghostery.com/)
 * 🐐[**uBlock Origin**](https://ublockorigin.com/es)
 * [**AdBlock Plus**](https://adblockplus.org/es/)
 
-### Análisis Online
+### Analisis Online
 
 * [**VirusTotal**](https://www.virustotal.com/) &nbsp; 🌐
 * [**FileScan**](https://www.filescan.io/) &nbsp; 🌐
 * [**Tria.ge**](http://tria.ge) &nbsp; 🌐
 * [**Nomoreransom**](https://www.nomoreransom.org/) &nbsp; 🌐
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🔧 Instalación y Mantenimiento
+## 🔧Instalacion y Mantenimiento
 
 ### Limpieza
 
@@ -284,13 +313,13 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Glary Utilities**](https://www.glarysoft.com/downloads/?p=gu-page) &nbsp; 📦
 * 🐐[**WizTree**](https://diskanalyzer.com/) &nbsp; 📦 
 
-### Gestión de Discos
+### Gestion de Discos
 
 * [**Defraggler**](https://www.ccleaner.com/defraggler?srsltid=AfmBOoosx3YFNtSl-8Cgg5tCMOuI9APEIhvQWho5JeFEvrNV8Tr19nLr) &nbsp; [📦](https://portableapps.com/apps/utilities/dfgportable) 
 * [**Win Setup USB**](https://winsetupfromusb.org/) &nbsp; 📦 
 * 🐐[**MiniTool Partition Wizard**](https://www.partitionwizard.com/)
 
-### Gestión de Sistema
+### Gestion de Sistema
 
 * [**Sysinternals Suite**](https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite) &nbsp; 📦 
     * 🐐[**Process Explorer**](https://learn.microsoft.com/es-es/sysinternals/downloads/process-explorer) &nbsp; 📦 
@@ -302,7 +331,7 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Fan Control**](https://getfancontrol.com/) &nbsp; 📦 
 * [**AtlasOS**](https://atlasos.net/) &nbsp; ‼️*Solo recomendado para uso personal*
 
-### Gestión de Drivers
+### Gestion de Drivers
 
 * [**DDU**](https://www.guru3d.com/download/display-driver-uninstaller-download/) &nbsp; 📦 
 * [**DriverStoreExplorer**](https://github.com/lostindark/DriverStoreExplorer) &nbsp; 📦 
@@ -313,7 +342,7 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Intel Drivers**](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 * [**Qualcomm Athernos**](https://www.ath-drivers.eu/)
 
-### Instalación/Actualización
+### Instalacion/Actualizacion
 
 * 🐐[**Ninite**](https://ninite.com/) &nbsp; 🌐
 * [**Chocolatey**](https://chocolatey.org/)
@@ -321,11 +350,11 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
 * [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx) &nbsp; 🌐
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🔬 Diagnóstico y Reparación
+## 🔬Diagnostico y Reparacion
 
-### Información de Hardware
+### Informacion de Hardware
 
 * [**CrystalDiskInfo**](https://crystalmark.info/en/download/#CrystalDiskInfo) &nbsp; 📦 
 * 🐐[**Clear Disk Info**](https://www.carifred.com/cleardiskinfo/) &nbsp; 📦 
@@ -336,7 +365,7 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html) &nbsp; 📦 
 * [**PSU Calculator**](https://www.coolermaster.com/en-global/power-supply-calculator/) &nbsp; 🌐
 
-### Diagnóstico
+### Diagnostico
 
 * 🐐[**Lock Hunter**](https://lockhunter.com/download.htm)
 * [**BlueScreenView**](https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks) &nbsp; 📦
@@ -348,13 +377,13 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * **System File Checker** &nbsp; 🇼 `>_` `sfc /scannow` 
 * **DISM** &nbsp; 🇼 `>_` ``dism /online /cleanup-image /restorehealth``
 
-### Pruebas y Reparación
+### Pruebas y Reparacion
 
 * [**PassMark Software**](https://www.passmark.com/)
     * [**Performance Test**](https://www.passmark.com/products/performancetest/download.php) &nbsp; [📦](https://www.passmark.com/support/performancetest_faq/portable-usb.php) 
     * [**MemTest86**](https://www.memtest86.com/download.htm) &nbsp; 📀
 * [**PowerMax**](https://www.cpuid.com/softwares/powermax.html) &nbsp; [📦](https://www.cpuid.com/downloads/powermax/powermax_1.00.zip)
-* 🐐[**Verónica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; 📦 
+* 🐐[**Veronica HDD/SSD**](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; 📦 
 * [**SpinRite**](https://www.grc.com/sr/spinrite.htm) &nbsp; 💲📀
 
 ### Redes
@@ -362,11 +391,11 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Advance IP Scanner**](https://www.advanced-ip-scanner.com/es/download/) &nbsp; 📦 
 * [**DNS Speed Test**](https://dnsspeedtest.online/) &nbsp; 🌐
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 💾 Respaldo y Recuperación
+## 💾Respaldo y Recuperacion
 
-### Backup e Imágenes
+### Backup e Imagenes
 
 * [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html) &nbsp; 📦 
 * 🐐[**Registry Backup Tool**](https://www.majorgeeks.com/files/details/tweaking_com_registry_backup_portable.html) &nbsp; 📦 
@@ -374,22 +403,22 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Cobian Backup 11 Gravity**](https://www.cobiansoft.com/)
 * [**Clonzilla**](https://clonezilla.org/downloads.php)
 
-### Restauración de Sistema
+### Restauracion de Sistema
 
 * 🐐[**Recuva**](https://www.ccleaner.com/recuva?srsltid=AfmBOorylJ-cMN2L6YcFI6pt4Yfyg_8pC9sfMnDB0h4ra8NSacO8qeec) &nbsp; [📦](https://portableapps.com/apps/utilities/rcvportable)
 * [**Rollback RX Pro**](https://horizondatasys.com/rollback-rx-time-machine/rollback-rx-professional/) &nbsp; 💲
 * [**Deep Freeze**](https://www.faronics.com/es/products/deep-freeze) &nbsp; 💲
 
-### Creación de ISO
+### Creacion de ISO
 
 * [**SysPrep**](https://www.youtube.com/watch?v=cCCqf7IJShg) &nbsp; 🇼 ℹ️ *Audit Mode* `>_` `C:\Windows\System32\Sysprep\sysprep.exe`
 * [**WinToolkit**](https://m.majorgeeks.com/files/details/win_toolkit.html)
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🆘 Herramientas de Soporte y Pendrive
+## 🆘Herramientas de Soporte y Pendrive
 
-### Creación de USBs
+### Creacion de USBs
 
 * [**Rufus**](https://rufus.ie/es/) &nbsp; 📦 
 * [**MobaLiveCD**](https://www.mobatek.net/labs.html) &nbsp; 📦 
@@ -411,12 +440,12 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**AnyDesk**](https://anydesk.com/es)
 * [**Desk Flow**](https://github.com/deskflow/deskflow/releases) &nbsp; ℹ️*El mismo mouse y teclado para dos PC*
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🏴‍☠️ Piratería
+## 🏴‍☠️Pirateria
 
 > [!IMPORTANT]
-> **Todo el contenido de esta categoría está verificado y validado por una comunidad, sin embargo debe proceder con responsabilidad y criterio**
+> ***Todo el contenido de esta categoria esta verificado y validado por una comunidad, sin embargo debe proceder con responsabilidad y criterio***
 
 ### Repositorios
 
@@ -429,13 +458,13 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 
 * [**Soft 98**](https://soft98.ir) &nbsp; 🌐
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🧰 Utilidades Generales
+## 🧰Utilidades Generales
 
-* 🐐[**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)ℹ️*Compresión*
+* 🐐[**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)ℹ️*Compresion*
 * [**CS 1.6**](https://down-cs.su/clean.php) &nbsp; 📦ℹ️*No puede faltar*
-* 🐐[**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦ℹ️*Búsqueda completa de archivos*
+* 🐐[**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦ℹ️*Busqueda completa de archivos*
 * [**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) &nbsp; 📦ℹ️*Manager de memoria onboard*
 * [**Supermium**](https://github.com/win32ss/supermium/releases) &nbsp; 📦ℹ️*Buscador ultra ligero*
 * [**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter) &nbsp; 📦ℹ️*Lector de PDF*
@@ -443,23 +472,23 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
 * [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)ℹ️*Desbloquear archivos*
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-# 🔩 Herramientas de Hardware
+# 🔩Herramientas de Hardware
 
-## 🛠️Herramientas de Mano y Medición
+## 🛠️Herramientas de Mano y Medicion
 
 * **Destornilladores**
 * **Alicate**
 * **Crimpeadora**
-* **Multímetro**
+* **Multimetro**
 * **Linterna**
 * 🐐[**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
-* **Kit de Precisión (Tipo [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit]))**
+* **Kit de Precision (Tipo [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit]))**
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🔌 Adaptadores
+## 🔌Adaptadores
 
 |From|To|
 |-|-|
@@ -467,45 +496,45 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 |**VGA**|**HDMI**|
 |**MOLEX**|**SATA**|
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🧹 Limpieza
+## 🧹Limpieza
 
 * **Cepillo de Dientes**
 * **Paño de Microfibra**
 * **Goma de Borrar**
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-##  🧪Banco de Pruebas
+## 🧪Banco de Pruebas
 
 * **Zapatilla / Alargue**
 * **Cables SATA**
 * **Cable de Fuente**
-* **Fuente Genérica de 500W**
+* **Fuente Generica de 500W**
 * **Mouse**
 * **Teclado**
 * **Buzzer**
 * **Clip de Oficina**
 * **Estuche para Gabinete**
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-##  ♻️Consumibles
+## ♻️Consumibles
 
 * **Precintos**
 * **Aire Comprimido**
-* **Pasta Térmica**  &nbsp; ℹ️[***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5)
+* **Pasta Termica**  &nbsp; ℹ️[***Delta GPM 5***](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5)
 * **Cables SATA**
 * **Adaptador MOLEX \> SATA**
 * **Fichas RJ45**
 * **Tornillos**
 * **Pila de Motherboard**  &nbsp; ℹ️[***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v)
-* **Alcohol Isopropílico** &nbsp; ‼️ **≥90º**
+* **Alcohol Isopropilico** &nbsp; ‼️ **≥90º**
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-# Guías y Sugerencias
+# 💡Guias y Sugerencias
 
 ## 🚚Proveedores
 
@@ -518,7 +547,7 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**MalditoHard**](https://www.malditohard.com.ar)
 * [**Integrados Argentinos**](https://www.integradosargentinos.com)
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
 ## 🏷️Marcas
 
@@ -565,7 +594,7 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Kingston**](https://www.kingston.com)
 * [**Adata**](https://www.adata.com)
 
-### Placa Gráfica
+### Placa Grafica
 
 * [**Gigabyte**](https://www.gigabyte.com/)
 * [**EVGA**](https://www.evga.com/)
@@ -573,41 +602,41 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Zotac**](https://www.zotac.com/es/)
 * [**XFX**](https://xfx.com.ar/)
 
-### Pasta Térmica
+### Pasta Termica
 
-| Pasta Térmica | Rendimiento Térmico|
+| Pasta Termica | Rendimiento Termico|
 | - | - |
 | [**Arctic MX-4**](https://listado.mercadolibre.com.ar/pasta-termica-mx4) | Alto |
 | [**Noctua**](https://listado.mercadolibre.com.ar/noctua) | Medio / Alto |
 | [**Delta GPM 5**](https://listado.mercadolibre.com.ar/pasta-termica-gpm-5) | Medio (***Uso general***) |
 | [**Delta Siliconada**](https://listado.mercadolibre.com.ar/grasa-siliconada-delta) | Bajo |
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 🏠Requisitos Mínimos *(SOHO)*
+## 🏠Requisitos Minimos *(SOHO)*
 
 * **Intel Core 8000 / AMD Ryzen 3000G**
 * **8 - 16 GB de RAM**
 * [**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links) **+** [**CTT**](https://christitus.com/windows-tool/) **+** [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/a895ca712956b6a5226166e49c696913ca765a9f/Scripts/AtlasDesktop)
 * [**Windows 10**](https://www.microsoft.com/en-gb/software-download/windows10) (x86) &nbsp; ‼️*Win10 sin soporte oficial* 
 
-## ⚡ Medición de Fuente
+## ⚡Medicion de Fuente
 
 1. **Encender la fuente haciendo un puente con un clip entre el cable verde y cualquier cable negro del conector ATX de 24 pies.**
 
 2. **Colocar la punta negra del tester en un cable negro** (**COM**) **y medir con la punta roja en cada pin.**
 
 > [!NOTE]
-> **Cálculo para fuentes genéricas: Watts reales = Watts totales − 67% (Aproximadamente)**
+> **Calculo para fuentes genericas: Watts reales = Watts totales − 67% (Aproximadamente)**
 
 ### Diagramas de pines de fuente
 
 > [!IMPORTANT] 
 > **Para leer estos cuadros se deben ver los pines del conector directamente**
 
-* **Conector ATX de 24 pines  ( 20 + 4 )**  &nbsp; ℹ️ *( Orientación ▶ )*
+* **Conector ATX de 24 pines  ( 20 + 4 )**  &nbsp; ℹ️ *( Orientacion ▶ )*
 
-| Tensión | Pin | Color | Color | Pin | Tensión | 
+| Tension | Pin | Color | Color | Pin | Tension | 
 | - | - | - | - | - | - |
 | +3.3 V   | **1**  | 🟧 | 🟧 | **13** | +3.3 V |
 | +3.3 V   | **2**  | 🟧 | 🟦 | **14** | -12 V  |
@@ -624,9 +653,9 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 | +12 V    | **11** | 🟡 | 🟥 | **23** | +5 V   |
 | +3.3 V   | **12** | 🟧 | ⬛ | **24** | COM    |
 
-* **Conector CPU ATX12V ( 4 + 4 )** &nbsp; ℹ️ *( Orientación ▶ )*
+* **Conector CPU ATX12V ( 4 + 4 )** &nbsp; ℹ️ *( Orientacion ▶ )*
 
-| Tensión | Pin | Color | Color | Pin | Tensión |
+| Tension | Pin | Color | Color | Pin | Tension |
 | - | - | - | - | - | - |
 | COM  | **1** | ⬛ | 🟡 | **5** | +12 V |
 | COM  | **2** | ⬛ | 🟡 | **6** | +12 V |
@@ -635,9 +664,9 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 | COM  | **3** | ⬛ | 🟡 | **7** | +12 V |
 | COM  | **4** | ⬛ | 🟡 | **8** | +12 V |
 
-* **Conector PCIe de 8 pines ( 6 + 2 )** &nbsp; ℹ️ *( Orientación ▶ )*
+* **Conector PCIe de 8 pines ( 6 + 2 )** &nbsp; ℹ️ *( Orientacion ▶ )*
 
-| Tensión | Pin | Color | Color | Pin | Tensión |
+| Tension | Pin | Color | Color | Pin | Tension |
 | - | - | - | - | - | - |
 | +12 V | **1** | 🟡 | ⬛ | **5** | COM |
 | +12 V | **2** | 🟡 | ⬛ | **6** | COM |
@@ -646,9 +675,9 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 ||
 |  COM  | **4** | ⬛ | ⬛ | **8** | COM |
 
-* **Conector SATA**  &nbsp; ℹ️ *( Orientación 🇱 )*
+* **Conector SATA**  &nbsp; ℹ️ *( Orientacion 🇱 )*
 
-| Tensión | Pin | Color |
+| Tension | Pin | Color |
 | - | - | - |
 | +12 V  | **15**  | 🟡 |
 | +12 V  | **14**  | 🟡 |
@@ -666,16 +695,16 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 | +3.3 V | **2**   | 🟧 |
 | +3.3 V | **1**   | 🟧 |
 
-* **Conector MOLEX** ℹ️ *( Orientación ▶ )*
+* **Conector MOLEX** ℹ️ *( Orientacion ▶ )*
 
-| Tensión | Pin | Color |
+| Tension | Pin | Color |
 | :--- | :---: | :---: |
 | +12 V  | **1**  | 🟡 |
 | COM    | **2**  | ⬛ |
 | COM    | **3**  | ⬛ |
 | +5 V   | **4**  | 🟥 |
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
 ## 🔤Nomenclaturas
 
@@ -687,23 +716,23 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 <img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746484785346/NVIDIA_GPU.png?ex=697988a6&is=69783726&hm=a799b7253bfc58a60aa5f7f662912a06e1ffa52615ae9bfbbdb22f218c221161&=&format=webp&quality=lossless" >
 <img width="700" src="https://media.discordapp.net/attachments/1106297060745035837/1465555746140983449/AMD_GPU.png?ex=697988a6&is=69783726&hm=44f0a52a24be0e2b20cbe9654fe55f71f02cb9e1d3bdc143b2dd6511689c9494&=&format=webp&quality=lossless" >
 
-### Distribución de Teclados
+### Distribucion de Teclados
 
 * **Español:** *@ > 2*
-* **América Latina:** *@ > Q*
+* **America Latina:** *@ > Q*
 * **Estados Unidos:** *No hay Ñ*
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 👨‍🔧Servicios Técnicos
+## 👨‍🔧Servicios Tecnicos
 
 * [**NSP Caballito**](https://nsp.com.ar/) &nbsp; ℹ️*General*
 * 🐐[**Mother Solutions**](https://www.mothersolution.com.ar/) &nbsp; ℹ️*Motherboards*
 * [**Grupo GB**](https://grupogb.com.ar/) &nbsp; ℹ️*Celulares*
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
 
-## 📖Bibliografía
+## 📖Bibliografia
 
 * [**Hardzone**](https://hardzone.es/)
 * [**Softzone**](https://www.softzone.es/)
@@ -715,4 +744,4 @@ Combinación de una versión ligera y estable de Windows (LTSC) con un script de
 * [**Muy Computer**](https://www.muycomputer.com/)
 * [**Microsofters**](https://microsofters.com/)
 
-<sub>[ 📑 Índice](#-%C3%ADndice)</sub>
+<sub>[📑Index](#index)</sub>
