@@ -1,4 +1,6 @@
 
+
+
 <h1 align="center">🛠️IT Support Toolkit🛠️</h1>
 
 <h3 align="center"> <img width="500" src="Images/Courage the Support IT Dog.png" > </h3>
@@ -172,10 +174,7 @@
 
 <sub>[📑Index](#index)</sub>
  
-## 🐐Top 10 IT Support Toolkit
-
-> [!NOTE]
-> **Seleccion de herramientas para diagnostico, reparacion y mantenimiento tecnico de equipos informaticos.**
+# 🐐Top 10 IT Support Toolkit
 
 ### [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
  &nbsp; Combinacion de una version ligera y estable de Windows (LTSC) con un script de automatizacion para post-instalacion.
@@ -734,8 +733,8 @@
 
 ### Distribucion de Teclados
 
-* **Español:** *@ > 2*
-* **America Latina:** *@ > Q*
+* **Español:** <img width="50" src="Images/Keyboard - Spanish.png">
+* **America Latina:** <img width="50" src="Images/Keyboard - LatinAmerica.png">
 * **Estados Unidos:** *No hay Ñ*
 
 <sub>[📑Index](#index)</sub>
