@@ -176,55 +176,35 @@
  
 # 🐐Top 10 IT Support Toolkit
 
-### [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/)
- &nbsp; Combinacion de una version ligera y estable de Windows (LTSC) con un script de automatizacion para post-instalacion.
+### [Win 11 LTSC](https://massgrave.dev/windows_ltsc_links#download-links) + [CTT Utility](https://christitus.com/windows-tool/) &nbsp; <sub>⚙️ [**Preparacion de Sistema**](#%EF%B8%8Fpreparacion-de-sistema)
+* Combinacion de una version ligera y estable de Windows (LTSC) con un script de automatizacion para post-instalacion.
 
- &nbsp; <sub>⚙️ [**Preparacion de Sistema**](#%EF%B8%8Fpreparacion-de-sistema)
+### [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/) &nbsp; <sub>🆘 [**Sistemas Portables**](#sistemas-portables)
+* Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. util para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
 
-### [Sergei Strelec WinPE](https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/)
- &nbsp; Sistema operativo ligero basado en Windows que se ejecuta desde la memoria RAM. util para acceder a archivos en sistemas que no arrancan o realizar reparaciones externas.
+### [Ventoy](https://sourceforge.net/projects/ventoy/) &nbsp; <sub>🆘 [**Creacion de USBs**](#creacion-de-usbs)
+* Permite crear una unidad de arranque multiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
 
- &nbsp; <sub>🆘 [**Sistemas Portables**](#sistemas-portables)
+### [Macrium Reflect](https://www.macrium.com/) &nbsp; <sub>💾 [**Backup e Imagenes**](#backup-e-imagenes)
+* Software especializado en la creacion de imagenes de disco y clonacion de unidades de almacenamiento.
 
-### [Ventoy](https://sourceforge.net/projects/ventoy/)
- &nbsp; Permite crear una unidad de arranque multiple simplemente copiando archivos ISO al pendrive. No requiere formatear la unidad para cambiar de sistema operativo.
+### [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk) &nbsp; <sub>🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
+* Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrion.
 
- &nbsp; <sub>🆘 [**Creacion de USBs**](#creacion-de-usbs)
+### [MiniTool Partition Wizard](https://www.partitionwizard.com/) &nbsp; <sub> 🔧 [**Gestion de Discos**](#gestion-de-discos)
+* Herramienta para la administracion avanzada de discos duros y SSD.
 
-### [Macrium Reflect](https://www.macrium.com/)
- &nbsp; Software especializado en la creacion de imagenes de disco y clonacion de unidades de almacenamiento.
+### [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; <sub>🔬 [**Pruebas y Reparacion**](#pruebas-y-reparacion)
+* Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado fisico de los sectores.
 
- &nbsp; <sub>💾 [**Backup e Imagenes**](#backup-e-imagenes)
+### [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/) &nbsp; <sub>🔧 [**Gestion de Drivers**](#gestion-de-drivers)
+* Herramienta para la busqueda e instalacion de controladores de hardware, especialmente util cuando no hay conexion a internet.
 
-### [Kaspersky Rescue Disk](https://www.kaspersky.es/downloads/free-rescue-disk)
- &nbsp; Entorno de rescate basado en Linux diseñado para escanear y eliminar malware sin necesidad de iniciar el sistema operativo anfitrion.
+### [Clear Disk Info](https://www.carifred.com/cleardiskinfo/) &nbsp; <sub>🔬 [**Informacion de Hardware**](#informacion-de-hardware)
+* Visualizador de la salud de unidades de almacenamiento que interpreta los datos tecnicos del firmware del disco.
 
- &nbsp; <sub>🛡️ [**Anti Malware *(Bajo demanda)***](#anti-malware-bajo-demanda)
-
-### [MiniTool Partition Wizard](https://www.partitionwizard.com/)
- &nbsp; Herramienta para la administracion avanzada de discos duros y SSD.
-
- &nbsp; <sub> 🔧 [**Gestion de Discos**](#gestion-de-discos)
-
-### [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/)
- &nbsp; Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado fisico de los sectores.
-
- &nbsp; <sub>🔬 [**Pruebas y Reparacion**](#pruebas-y-reparacion)
-
-### [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/)
- &nbsp; Herramienta para la busqueda e instalacion de controladores de hardware, especialmente util cuando no hay conexion a internet.
-
- &nbsp; <sub>🔧 [**Gestion de Drivers**](#gestion-de-drivers)
-
-### [Clear Disk Info](https://www.carifred.com/cleardiskinfo/)
- &nbsp; Visualizador de la salud de unidades de almacenamiento que interpreta los datos tecnicos del firmware del disco.
-
- &nbsp; <sub>🔬 [**Informacion de Hardware**](#informacion-de-hardware)
-
-### [Everything](https://www.voidtools.com/downloads/)
- &nbsp; Motor de busqueda local que localiza archivos y carpetas por nombre de forma instantanea.
-
- &nbsp; <sub>🧰 [**Utilidades Generales**](#utilidades-generales)
+### [Everything](https://www.voidtools.com/downloads/) &nbsp; <sub>🧰 [**Utilidades Generales**](#utilidades-generales)
+* Motor de busqueda local que localiza archivos y carpetas por nombre de forma instantanea.
 
 <sub>[📑Index](#index)</sub>
 
@@ -249,6 +229,7 @@
 * [**SSD-Z**](http://aezay.dk/aezay/ssdz/) &nbsp; 📦
 * [**AIDA64**](https://www.aida64.com/downloads/ZGZiOGMxNWQ=) &nbsp; 📦💲
 * [**FurMark**](https://geeks3d.com/furmark/downloads/) &nbsp; 📦 
+* [**Power Toys**](https://github.com/microsoft/PowerToys/releases)
 
 <sub>[📑Index](#index)</sub>
 
@@ -476,16 +457,19 @@
 
 ## 🧰Utilidades Generales
 
-* 🐐[**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)ℹ️*Compresion*
-* [**CS 1.6**](https://down-cs.su/clean.php) &nbsp; 📦ℹ️*No puede faltar*
-* 🐐[**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦ℹ️*Busqueda completa de archivos*
-* [**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) &nbsp; 📦ℹ️*Manager de memoria onboard*
-* [**Supermium**](https://github.com/win32ss/supermium/releases) &nbsp; 📦ℹ️*Buscador ultra ligero*
-* [**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter) &nbsp; 📦ℹ️*Lector de PDF*
-* [**WPS Office**](https://es.wps.com/download/) &nbsp; ℹ️*Alternativa a Microsoft Office*
-* [**Microsoft Office**](https://massgrave.dev/office_c2r_links)
-* [**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)ℹ️*Desbloquear archivos*
-* [**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable) ℹ️*Gestion de torrents*
+|Software|Notas|
+|-|-|
+|🐐[**7-Zip**](https://www.7-zip.org/) &nbsp; [📦](https://portableapps.com/apps/utilities/7-zip_portable)|*Compresion*|
+|🐐[**Everything**](https://www.voidtools.com/downloads/) &nbsp; 📦|*Busqueda completa de archivos*|
+|[**CS 1.6**](https://down-cs.su/clean.php) &nbsp; 📦|*No puede faltar*|
+|[**LG OMM**](https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager) &nbsp; 📦|*Manager de memoria onboard*|
+|[**Supermium**](https://github.com/win32ss/supermium/releases) &nbsp; 📦|*Buscador ultra ligero*|
+|[**SumatraPDF**](https://www.sumatrapdfreader.org/downloadafter) &nbsp; 📦|*Lector de PDF*|
+|[**WPS Office**](https://es.wps.com/download/)|*Alternativa a Microsoft Office*|
+|[**Microsoft Office**](https://massgrave.dev/office_c2r_links)|*Alternativa a WSP Office*|
+|[**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)|*Desbloquear archivos*|
+|[**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable)|*Gestion de torrents*|
+|[**Power Toys**](https://github.com/microsoft/PowerToys/releases)|*Variedad de tweaks para el sistema operativo*|
 
 <sub>[📑Index](#index)</sub> 
 
