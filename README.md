@@ -35,7 +35,7 @@
 </ul>
 <ul>
   <li>
-    <details>
+    <details open>
       <summary>💻 <a href="#herramientas-de-software">Herramientas de Software</a></summary>
       <ul>
         <li>⚙️ <a href="#%EF%B8%8Fpreparacion-de-sistema">Preparación de Sistema</a></li>
@@ -110,7 +110,7 @@
 </ul>
 <ul>
   <li>
-    <details>
+    <details open>
       <summary>🔩 <a href="#herramientas-de-hardware">Herramientas de Hardware</a></summary>
       <ul>
         <li>🛠️ <a href="#%EF%B8%8Fherramientas-de-mano-y-medicion">Herramientas de Mano y Medición</a></li>
@@ -124,7 +124,7 @@
 </ul>
 <ul>
   <li>
-    <details>
+    <details open>
       <summary>💡 <a href="#guias-y-sugerencias">Guías y Sugerencias</a></summary>
       <ul>
         <li>🚚 <a href="#proveedores">Proveedores</a></li>
