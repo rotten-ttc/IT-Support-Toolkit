@@ -230,6 +230,7 @@
 * [**AIDA64**](https://www.aida64.com/downloads/ZGZiOGMxNWQ=) &nbsp; 📦💲
 * [**FurMark**](https://geeks3d.com/furmark/downloads/) &nbsp; 📦 
 * [**Power Toys**](https://github.com/microsoft/PowerToys/releases)
+* [**Norton Ghost 15**](https://archive.org/details/norton-ghost-15)
 
 <sub>[📑Index](#index)</sub>
 
@@ -397,6 +398,7 @@
 * 🐐[**Macrium Reflect**](https://www.macrium.com/)
 * [**Cobian Backup 11 Gravity**](https://www.cobiansoft.com/)
 * [**Clonzilla**](https://clonezilla.org/downloads.php)
+* [**Norton Ghost 15**](https://archive.org/details/norton-ghost-15)
 
 ### Restauracion de Sistema
 
