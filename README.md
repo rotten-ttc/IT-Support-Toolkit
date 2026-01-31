@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">🛠️IT Support Toolkit🛠️</h1>
 
 <h3 align="center"> <img width="500" src="Images/Courage the Support IT Dog.png" > </h3>
@@ -197,8 +194,8 @@
 ### [Victoria HDD/SSD](https://sourceforge.net/projects/victoria-ssd-hdd/) &nbsp; <sub>🔬 [**Pruebas y Reparacion**](#pruebas-y-reparacion)
 * Utilidad de bajo nivel para analizar la superficie de unidades de almacenamiento y verificar el estado fisico de los sectores.
 
-### [Snappy Driver Installer (Lite)](https://sdi-tool.org/download/) &nbsp; <sub>🔧 [**Gestion de Drivers**](#gestion-de-drivers)
-* Herramienta para la busqueda e instalacion de controladores de hardware, especialmente util cuando no hay conexion a internet.
+### [**RustDesk**](https://github.com/rustdesk/rustdesk/releases/tag/1.4.5)&nbsp; <sub>🆘  [**Acceso Remoto**](##acceso-remoto)
+* Solución de escritorio remoto de código abierto que permite el control de equipos a distancia y la transferencia de archivos.
 
 ### [Clear Disk Info](https://www.carifred.com/cleardiskinfo/) &nbsp; <sub>🔬 [**Informacion de Hardware**](#informacion-de-hardware)
 * Visualizador de la salud de unidades de almacenamiento que interpreta los datos tecnicos del firmware del disco.
@@ -231,6 +228,7 @@
 * [**FurMark**](https://geeks3d.com/furmark/downloads/) &nbsp; 📦 
 * [**Power Toys**](https://github.com/microsoft/PowerToys/releases)
 * [**Norton Ghost 15**](https://archive.org/details/norton-ghost-15)
+*  [**TechPowerUp**](https://www.techpowerup.com/download/)
 
 <sub>[📑Index](#index)</sub>
 
@@ -244,7 +242,7 @@
 * [**Windows Key Viewer**](https://m.majorgeeks.com/files/details/windows_key_viewer.html) &nbsp; 📦
 * [**Unattend-generator**](https://schneegans.de/windows/unattend-generator/) &nbsp; ‼️*Al bootear desde el pendrive se instala el sistema automaticamente*
 * [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/6d4827b93b165bfaa0f87acccd87d06fa8ac06ba/Scripts/AtlasDesktop)
-* 🐐[**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
+* [**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
 
 <sub>[📑Index](#index)</sub>
@@ -484,7 +482,7 @@
 * **Crimpeadora**
 * **Multimetro**
 * **Linterna**
-* 🐐[**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
+* [**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
 * **Kit de Precision (Tipo [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit]))**
 
 <sub>[📑Index](#index)</sub>
@@ -633,7 +631,8 @@
 ### Diagramas de pines de fuente
 
 > [!IMPORTANT] 
-> **Para leer estos cuadros se deben ver los pines del conector directamente**
+> 1. **Para leer estos cuadros se deben ver los pines del conector directamente.**
+> 2. **La orientacion indica de que lado poner la pestaña del conector.**
 
 * **Conector ATX de 24 pines  ( 20 + 4 )**  &nbsp; ℹ️ *( Orientacion ▶ )*
 
@@ -733,8 +732,9 @@
 
 <sub>[📑Index](#index)</sub>
 
-## 📖Bibliografia
+## 📖Sitios Utiles 
 
+* [**TechPowerUp**](https://www.techpowerup.com/download/)
 * [**Hardzone**](https://hardzone.es/)
 * [**Softzone**](https://www.softzone.es/)
 * [**ADSLZone**](https://www.adslzone.net/)
