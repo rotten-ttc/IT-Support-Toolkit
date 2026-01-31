@@ -229,6 +229,7 @@
 * [**Power Toys**](https://github.com/microsoft/PowerToys/releases)
 * [**Norton Ghost 15**](https://archive.org/details/norton-ghost-15)
 *  [**TechPowerUp**](https://www.techpowerup.com/download/)
+* [**Visual C++ All-in-One**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
 <sub>[📑Index](#index)</sub>
 
@@ -328,9 +329,6 @@
 * 🐐[**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
 * [**Double Driver**](http://www.majorgeeks.com/mg/getmirror/double_driver,2.html) &nbsp; 📦 
 * [**NVClean Install**](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) &nbsp; 📦 
-* [**AMD Auto Detect Drivers**](https://www.amd.com/en/support/download/drivers.html)
-* [**Intel Drivers**](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
-* [**Qualcomm Athernos**](https://www.ath-drivers.eu/)
 
 ### Instalacion/Actualizacion
 
@@ -339,6 +337,10 @@
 * [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; ℹ️*WingetUI*
 * [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
 * [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx) &nbsp; 🌐
+* [**AMD Auto Detect Drivers**](https://www.amd.com/en/support/download/drivers.html)
+* [**Intel Drivers**](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
+* [**Qualcomm Athernos**](https://www.ath-drivers.eu/)
+* [**Visual C++ All-in-One**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 
 <sub>[📑Index](#index)</sub>
 
@@ -365,6 +367,7 @@
     * [**WhoCrashed**](https://www.resplendence.com/downloads)
 * [**NirSoft Suite**](https://launcher.nirsoft.net/downloads/index.html) &nbsp; 📦 
 * [**Switch Hitter**](https://www.majorgeeks.com/files/details/switch_hitter.html)
+
 
 ### Pruebas y Reparacion
 
