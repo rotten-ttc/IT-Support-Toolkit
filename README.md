@@ -15,21 +15,21 @@
           <details>
             <summary>🐐 <a href="#top-10-it-support-toolkit">Top 10 IT Support Toolkit</a></summary>
             <ul>
-              <li><a href="#win-11-ltsc--ctt-utility">Win 11 LTSC + CTT Utility</a></li>
-              <li><a href="#sergei-strelec-winpe">Sergei Strelec WinPE</a></li>
-              <li><a href="#ventoy">Ventoy</a></li>
-              <li><a href="#macrium-reflect">Macrium Reflect</a></li>
-              <li><a href="#kaspersky-rescue-disk">Kaspersky Rescue Disk</a></li>
-              <li><a href="#minitool-partition-wizard">MiniTool Partition Wizard</a></li>
-              <li><a href="#victoria-hddssd">Victoria HDD/SSD</a></li>
-              <li><a href="#snappy-driver-installer-lite">Snappy Driver Installer (Lite)</a></li>
-              <li><a href="#clear-disk-info">Clear Disk Info</a></li>
-              <li><a href="#everything">Everything</a></li>
+              <li><a href="#win-11-ltsc--ctt-utility--%EF%B8%8F-preparacion-de-sistema">Win 11 LTSC + CTT Utility</a></li>
+              <li><a href="#sergei-strelec-winpe---sistemas-portables">Sergei Strelec WinPE</a></li>
+              <li><a href="#ventoy---creacion-de-usbs">Ventoy</a></li>
+              <li><a href="#macrium-reflect---backup-e-imagenes">Macrium Reflect</a></li>
+              <li><a href="#kaspersky-rescue-disk--%EF%B8%8F-anti-malware-bajo-demanda">Kaspersky Rescue Disk</a></li>
+              <li><a href="#minitool-partition-wizard----gestion-de-discos">MiniTool Partition Wizard</a></li>
+              <li><a href="#victoria-hddssd---pruebas-y-reparacion">Victoria HDD/SSD</a></li>
+              <li><a href="#rustdesk---acceso-remoto">RustDesk</a></li>
+              <li><a href="#clear-disk-info---informacion-de-hardware">Clear Disk Info</a></li>
+              <li><a href="#everything---utilidades-generales">Everything</a></li>
             </ul>
           </details>
         </li>
         <li>📍 <a href="#indicadores-de-referencia">Indicadores de referencia</a></li>
-        <li>🆕 <a href="#ultimos-añadidos">Ultimos añadidos</a></li>
+        <li>🆕 <a href="#ultimos-agregados">Ultimos agregados</a></li>
       </ul>
     </details>
   </li>
@@ -220,7 +220,7 @@
 
 <sub>[📑Index](#index)</sub>
 
-## 🆕Ultimos añadidos
+## 🆕Ultimos Agregados
 
 * [**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable)
 * [**SSD-Z**](http://aezay.dk/aezay/ssdz/) &nbsp; 📦
