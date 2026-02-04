@@ -230,6 +230,7 @@
 * [**Norton Ghost 15**](https://archive.org/details/norton-ghost-15)
 *  [**TechPowerUp**](https://www.techpowerup.com/download/)
 * [**Visual C++ All-in-One**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+* [**Alt App Installer**](https://github.com/mjishnu/alt-app-installer/releases) &nbsp; 📦
 
 <sub>[📑Index](#index)</sub>
 
@@ -245,6 +246,7 @@
 * [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/6d4827b93b165bfaa0f87acccd87d06fa8ac06ba/Scripts/AtlasDesktop)
 * [**Snappy Driver Installer (Lite)**](https://sdi-tool.org/download/) &nbsp; 📦 
 * [**Gaming Service Repair**](https://support.xbox.com/en-US/help/games-apps/troubleshooting/gaming-services-repair-tool)
+
 
 <sub>[📑Index](#index)</sub>
 
@@ -335,6 +337,7 @@
 * 🐐[**Ninite**](https://ninite.com/) &nbsp; 🌐
 * [**Chocolatey**](https://chocolatey.org/)
 * [**UniGetUI**](https://github.com/marticliment/UniGetUI/releases) &nbsp; ℹ️*WingetUI*
+* [**Alt App Installer**](https://github.com/mjishnu/alt-app-installer/releases) &nbsp; 📦
 * [**MS Generation Project**](https://store.rg-adguard.net/) &nbsp; 🌐
 * [**Offline Microsoft Update**](https://www.catalog.update.microsoft.com/Home.aspx) &nbsp; 🌐
 * [**AMD Auto Detect Drivers**](https://www.amd.com/en/support/download/drivers.html)
