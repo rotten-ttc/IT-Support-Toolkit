@@ -29,7 +29,7 @@
           </details>
         </li>
         <li>📍 <a href="#indicadores-de-referencia">Indicadores de referencia</a></li>
-        <li>🆕 <a href="#ultimos-agregados">Ultimos agregados</a></li>
+        <li>🆕 <a href="#ultimos-20-agregados">Ultimos 20 agregados</a></li>
       </ul>
     </details>
   </li>
@@ -114,7 +114,7 @@
     <details open>
       <summary>🔩 <a href="#herramientas-de-hardware">Herramientas de Hardware</a></summary>
       <ul>
-        <li>🛠️ <a href="#%EF%B8%8Fherramientas-de-mano-y-medicion">Herramientas de Mano y Medición</a></li>
+        <li>🛠️ <a href="#%EF%B8%8Fherramientas-de-trabajo">Herramientas de Trabajo</a></li>
         <li>🔌 <a href="#adaptadores">Adaptadores</a></li>
         <li>🧹 <a href="#limpieza-1">Limpieza</a></li>
         <li>🧪 <a href="#banco-de-pruebas">Banco de Pruebas</a></li>
@@ -146,7 +146,7 @@
         <li>🏠 <a href="#requisitos-minimos-soho">Requisitos Mínimos (SOHO)</a></li>
         <li>
           <details>
-            <summary>⚡ <a href="#medicion-de-fuente">Medición de Fuente</a></summary>
+            <summary>⚡ <a href="#medicion-de-fuente-atx">Medición de Fuente ATX</a></summary>
             <ul>
               <li><a href="#diagramas-de-pines-de-fuente">Diagramas de pines de fuente</a></li>
             </ul>
@@ -163,7 +163,7 @@
           </details>
         </li>
         <li>👨‍🔧 <a href="#%E2%80%8Dservicios-tecnicos">Servicios Técnicos</a></li>
-        <li>📖 <a href="#bibliografia">Bibliografía</a></li>
+        <li>📖 <a href="#sitios-utiles">Sitios Utiles </a></li>
       </ul>
     </details>
   </li>
@@ -220,7 +220,7 @@
 
 <sub>[📑Index](#index)</sub>
 
-## 🆕Ultimos Agregados
+## 🆕Ultimos 20 Agregados
 
 * [**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable)
 * [**SSD-Z**](http://aezay.dk/aezay/ssdz/) &nbsp; 📦
@@ -231,6 +231,9 @@
 *  [**TechPowerUp**](https://www.techpowerup.com/download/)
 * [**Visual C++ All-in-One**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 * [**Alt App Installer**](https://github.com/mjishnu/alt-app-installer/releases) &nbsp; 📦
+* **Fuente de laboratorio**  &nbsp; ℹ️ ( [Gadnic](https://listado.mercadolibre.com.ar/fuente-de-laboratorio-gadnic-30v-5a#D%5BA:fuente%20de%20laboratorio%20gadnic%2030v%205a%5D) / [OWON P4305](https://listado.mercadolibre.com.ar/owon-p4305?sb=all_mercadolibre#D%5BA:OWON%20P4305%5D) ) 30 Volts 5 Ampers
+* **Flux**  &nbsp; ℹ️ [Amtech](https://listado.mercadolibre.com.ar/flux-amtech?sb=all_mercadolibre#D%5BA:flux%20amtech%5D)
+* **Cinta de Aluminio**
 
 <sub>[📑Index](#index)</sub>
 
@@ -481,7 +484,7 @@
 
 # 🔩Herramientas de Hardware
 
-## 🛠️Herramientas de Mano y Medicion
+## 🛠️Herramientas de Trabajo
 
 * **Destornilladores**
 * **Alicate**
@@ -489,7 +492,8 @@
 * **Multimetro**
 * **Linterna**
 * [**Tester de Fuente Digital**](https://listado.mercadolibre.com.ar/tester-fuente-atx)
-* **Kit de Precision (Tipo [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit]))**
+* **Kit de Precision**  &nbsp; ℹ️ [iFixit](https://listado.mercadolibre.com.ar/ifixit#D[A:ifixit])
+* **Fuente de laboratorio**  &nbsp; ℹ️ ( [Gadnic](https://listado.mercadolibre.com.ar/fuente-de-laboratorio-gadnic-30v-5a#D%5BA:fuente%20de%20laboratorio%20gadnic%2030v%205a%5D) / [OWON P4305](https://listado.mercadolibre.com.ar/owon-p4305?sb=all_mercadolibre#D%5BA:OWON%20P4305%5D) ) 30 Volts 5 Ampers
 
 <sub>[📑Index](#index)</sub>
 
@@ -536,6 +540,8 @@
 * **Tornillos**
 * **Pila de Motherboard**  &nbsp; ℹ️[***CR2032 (3V)***](https://listado.mercadolibre.com.ar/bateria-cr2032-3v)
 * **Alcohol Isopropilico** &nbsp; ‼️ **≥90º**
+* **Flux**  &nbsp; ℹ️ [Amtech](https://listado.mercadolibre.com.ar/flux-amtech?sb=all_mercadolibre#D%5BA:flux%20amtech%5D)
+* **Cinta de Aluminio**
 
 <sub>[📑Index](#index)</sub>
 
@@ -625,7 +631,7 @@
 * [**Windows 11 LTSC**](https://massgrave.dev/windows_ltsc_links#download-links) **+** [**CTT**](https://christitus.com/windows-tool/) **+** [**AtlasDesktop**](https://github.com/rotten-ttc/IT-Support-Toolkit/tree/a895ca712956b6a5226166e49c696913ca765a9f/Scripts/AtlasDesktop)
 * [**Windows 10**](https://www.microsoft.com/en-gb/software-download/windows10) (x86) &nbsp; ‼️*Win10 sin soporte oficial* 
 
-## ⚡Medicion de Fuente
+## ⚡Medicion de Fuente ATX
 
 1. **Encender la fuente haciendo un puente con un clip entre el cable verde y cualquier cable negro del conector ATX de 24 pies.**
 
