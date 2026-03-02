@@ -260,7 +260,8 @@ This file was originally a .txt on my computer; I wanted to share it convenientl
 * **Fuente de laboratorio**  &nbsp; ℹ️ ( [Gadnic](https://listado.mercadolibre.com.ar/fuente-de-laboratorio-gadnic-30v-5a#D%5BA:fuente%20de%20laboratorio%20gadnic%2030v%205a%5D) / [OWON P4305](https://listado.mercadolibre.com.ar/owon-p4305?sb=all_mercadolibre#D%5BA:OWON%20P4305%5D) ) 30 Volts 5 Ampers
 * **Flux**  &nbsp; ℹ️ [Amtech](https://listado.mercadolibre.com.ar/flux-amtech?sb=all_mercadolibre#D%5BA:flux%20amtech%5D)
 * **Cinta de Aluminio**
-* **[Power-Supply Calculator](https://www.newegg.com/tools/power-supply-calculator)** &nbsp; 🌐
+* [**Power-Supply Calculator**](https://www.newegg.com/tools/power-supply-calculator) &nbsp; 🌐
+* [**Cultist Network (PSU TierList)**](https://cultists.network/140/psu-tier-list/) &nbsp; 🌐
 
 <sub>[📑Index](#index)</sub>
 
@@ -506,6 +507,7 @@ This file was originally a .txt on my computer; I wanted to share it convenientl
 |[**IObit Unlocker**](https://www.iobit.com/es/iobit-unlocker.php) &nbsp; [📦](https://portableapps.com/apps/utilities/iobit-unlocker-portable)|*Desbloquear archivos*|
 |[**qBittorrent**](https://www.qbittorrent.org/download#windows) &nbsp; [📦](https://portableapps.com/apps/internet/qbittorrent_portable)|*Gestion de torrents*|
 |[**Power Toys**](https://github.com/microsoft/PowerToys/releases)|*Variedad de tweaks para el sistema operativo*|
+|[**Cultist Network (PSU TierList)**](https://cultists.network/140/psu-tier-list/) &nbsp; 🌐|*Tier List de fuentes verificadas*|
 
 <sub>[📑Index](#index)</sub> 
 
