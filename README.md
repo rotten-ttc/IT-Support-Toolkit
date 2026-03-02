@@ -1,3 +1,4 @@
+
 <h1 align="center">🛠️IT Support Toolkit🛠️</h1>
 
 <h3 align="center"> <img width="500" src="Images/Courage the Support IT Dog.png" > </h3>
@@ -259,6 +260,7 @@ This file was originally a .txt on my computer; I wanted to share it convenientl
 * **Fuente de laboratorio**  &nbsp; ℹ️ ( [Gadnic](https://listado.mercadolibre.com.ar/fuente-de-laboratorio-gadnic-30v-5a#D%5BA:fuente%20de%20laboratorio%20gadnic%2030v%205a%5D) / [OWON P4305](https://listado.mercadolibre.com.ar/owon-p4305?sb=all_mercadolibre#D%5BA:OWON%20P4305%5D) ) 30 Volts 5 Ampers
 * **Flux**  &nbsp; ℹ️ [Amtech](https://listado.mercadolibre.com.ar/flux-amtech?sb=all_mercadolibre#D%5BA:flux%20amtech%5D)
 * **Cinta de Aluminio**
+* **[Power-Supply Calculator](https://www.newegg.com/tools/power-supply-calculator)** &nbsp; 🌐
 
 <sub>[📑Index](#index)</sub>
 
@@ -388,7 +390,7 @@ This file was originally a .txt on my computer; I wanted to share it convenientl
 * [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) &nbsp; 📦 
 * [**OCCT**](https://www.ocbase.com/download) &nbsp; 📦 
 * [**Battery View Info**](https://www.majorgeeks.com/files/details/batteryinfoview.html) &nbsp; 📦 
-* [**PSU Calculator**](https://www.coolermaster.com/en-global/power-supply-calculator/) &nbsp; 🌐
+* [**Power-Supply Calculator**](https://www.newegg.com/tools/power-supply-calculator) &nbsp; 🌐
 
 ### Diagnostico
 
